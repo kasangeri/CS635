@@ -1,0 +1,1879 @@
+effort was to be avoided by every means.
+
+HOCKEY informed the Workshop about one major current activity of CETH,
+namely a catalogue of machine-readable texts in the humanities.  Held on
+RLIN at present, the catalogue has been concentrated on ASCII as opposed
+to digitized images of text.  She is exploring ways to improve the
+catalogue and make it more widely available, and welcomed suggestions
+about these concerns.  CETH owns the records, which are not just
+restricted to RLIN, and can distribute them however it wishes.
+
+Taking up LESK's earlier question, BATTIN inquired whether LC, since it
+is accepting electronic files and designing a mechanism for dealing with
+that rather than putting books on shelves, would become responsible for
+the National Copyright Depository of Electronic Materials.  Of course
+that could not be accomplished overnight, but it would be something LC
+could plan for.  GIFFORD acknowledged that much thought was being devoted
+to that set of problems and returned the discussion to the issue raised
+by LYNCH--whether or not putting the kind of records that both BATTIN and
+HOCKEY have been talking about in RLIN is not a satisfactory solution. 
+It seemed to him that RLIN answered LYNCH's original point concerning
+some kind of directory for these kinds of materials.  In a situation
+where somebody is attempting to decide whether or not to scan this or
+film that or to learn whether or not someone has already done so, LYNCH
+suggested, RLIN is helpful, but it is not helpful in the case of a local,
+on-line catalogue.  Further, one would like to have her or his system be
+aware that that exists in digital form, so that one can present it to a
+patron, even though one did not digitize it, if it is out of copyright. 
+The only way to make those linkages would be to perform a tremendous
+amount of real-time look-up, which would be awkward at best, or
+periodically to yank the whole file from RLIN and match it against one's
+own stuff, which is a nuisance.
+
+But where, ERWAY inquired, does one stop including things that are
+available with Internet, for instance, in one's local catalogue?
+It almost seems that that is LC's means to acquire access to them.
+That represents LC's new form of library loan.  Perhaps LC's new on-line
+catalogue is an amalgamation of all these catalogues on line.  LYNCH
+conceded that perhaps that was true in the very long term, but was not
+applicable to scanning in the short term.  In his view, the totals cited
+by Yale, 10,000 books over perhaps a four-year period, and 1,000-1,500
+books from Cornell, were not big numbers, while searching all over
+creation for relatively rare occurrences will prove to be less efficient. 
+As GIFFORD wondered if this would not be a separable file on RLIN and
+could be requested from them, BATTIN interjected that it was easily
+accessible to an institution.  SEVERTSON pointed out that that file, cum
+enhancements, was available with reference information on CD-ROM, which
+makes it a little more available.
+
+In HOCKEY's view, the real question facing the Workshop is what to put in
+this catalogue, because that raises the question of what constitutes a
+publication in the electronic world.  (WEIBEL interjected that Eric Joule
+in OCLC's Office of Research is also wrestling with this particular
+problem, while GIFFORD thought it sounded fairly generic.)  HOCKEY
+contended that a majority of texts in the humanities are in the hands
+of either a small number of large research institutions or individuals
+and are not generally available for anyone else to access at all.
+She wondered if these texts ought to be catalogued.
+
+After argument proceeded back and forth for several minutes over why
+cataloguing might be a necessary service, LEBRON suggested that this
+issue involved the responsibility of a publisher.  The fact that someone
+has created something electronically and keeps it under his or her
+control does not constitute publication.  Publication implies
+dissemination.  While it would be important for a scholar to let other
+people know that this creation exists, in many respects this is no
+different from an unpublished manuscript.  That is what is being accessed
+in there, except that now one is not looking at it in the hard-copy but
+in the electronic environment.
+
+LEBRON expressed puzzlement at the variety of ways electronic publishing
+has been viewed.  Much of what has been discussed throughout these two
+days has concerned CD-ROM publishing, whereas in the on-line environment
+that she confronts, the constraints and challenges are very different. 
+Sooner or later LC will have to deal with the concept of on-line
+publishing.  Taking up the comment ERWAY made earlier about storing
+copies, LEBRON gave her own journal as an example.  How would she deposit
+OJCCT for copyright?, she asked, because the journal will exist in the
+mainframe at OCLC and people will be able to access it.  Here the
+situation is different, ownership versus access, and is something that
+arises with publication in the on-line environment, faster than is
+sometimes realized.  Lacking clear answers to all of these questions
+herself, LEBRON did not anticipate that LC would be able to take a role
+in helping to define some of them for quite a while.
+
+GREENFIELD observed that LC's Network Development Office is attempting,
+among other things, to explore the limits of MARC as a standard in terms
+of handling electronic information.  GREENFIELD also noted that Rebecca
+GUENTHER from that office gave a paper to the American Society for
+Information Science (ASIS) summarizing several of the discussion papers
+that were coming out of the Network Development Office.  GREENFIELD said
+he understood that that office had a list-server soliciting just the kind
+of feedback received today concerning the difficulties of identifying and
+cataloguing electronic information.  GREENFIELD hoped that everybody
+would be aware of that and somehow contribute to that conversation.
+
+Noting two of LC's roles, first, to act as a repository of record for
+material that is copyrighted in this country, and second, to make
+materials it holds available in some limited form to a clientele that
+goes beyond Congress, BESSER suggested that it was incumbent on LC to
+extend those responsibilities to all the things being published in
+electronic form.  This would mean eventually accepting electronic
+formats.  LC could require that at some point they be in a certain
+limited set of formats, and then develop mechanisms for allowing people
+to access those in the same way that other things are accessed.  This
+does not imply that they are on the network and available to everyone. 
+LC does that with most of its bibliographic records, BESSER said, which
+end up migrating to the utility (e.g., OCLC) or somewhere else.  But just
+as most of LC's books are available in some form through interlibrary
+loan or some other mechanism, so in the same way electronic formats ought
+to be available to others in some format, though with some copyright
+considerations.  BESSER was not suggesting that these mechanisms be
+established tomorrow, only that they seemed to fall within LC's purview,
+and that there should be long-range plans to establish them.
+
+Acknowledging that those from LC in the room agreed with BESSER
+concerning the need to confront difficult questions, GIFFORD underscored
+the magnitude of the problem of what to keep and what to select.  GIFFORD
+noted that LC currently receives some 31,000 items per day, not counting
+electronic materials, and argued for much more distributed responsibility
+in order to maintain and store electronic information.
+
+BESSER responded that the assembled group could be viewed as a starting
+point, whose initial operating premise could be helping to move in this
+direction and defining how LC could do so, for example, in areas of
+standardization or distribution of responsibility.
+
+FLEISCHHAUER added that AM was fully engaged, wrestling with some of the
+questions that pertain to the conversion of older historical materials,
+which would be one thing that the Library of Congress might do.  Several
+points mentioned by BESSER and several others on this question have a
+much greater impact on those who are concerned with cataloguing and the
+networking of bibliographic information, as well as preservation itself.
+
+Speaking directly to AM, which he considered was a largely uncopyrighted
+database, LYNCH urged development of a network version of AM, or
+consideration of making the data in it available to people interested in
+doing network multimedia.  On account of the current great shortage of
+digital data that is both appealing and unencumbered by complex rights
+problems, this course of action could have a significant effect on making
+network multimedia a reality.
+
+In this connection, FLEISCHHAUER reported on a fragmentary prototype in
+LC's Office of Information Technology Services that attempts to associate
+digital images of photographs with cataloguing information in ways that
+work within a local area network--a step, so to say, toward AM's
+construction of some sort of apparatus for access.  Further, AM has
+attempted to use standard data forms in order to help make that
+distinction between the access tools and the underlying data, and thus
+believes that the database is networkable.
+
+A delicate and agonizing policy question for LC, however, which comes
+back to resources and unfortunately has an impact on this, is to find
+some appropriate, honorable, and legal cost-recovery possibilities.  A
+certain skittishness concerning cost-recovery has made people unsure
+exactly what to do.  AM would be highly receptive to discussing further
+LYNCH's offer to test or demonstrate its database in a network
+environment, FLEISCHHAUER said.
+
+Returning the discussion to what she viewed as the vital issue of
+electronic deposit, BATTIN recommended that LC initiate a catalytic
+process in terms of distributed responsibility, that is, bring together
+the distributed organizations and set up a study group to look at all
+these issues and see where we as a nation should move.  The broader
+issues of how we deal with the management of electronic information will
+not disappear, but only grow worse.
+
+LESK took up this theme and suggested that LC attempt to persuade one
+major library in each state to deal with its state equivalent publisher,
+which might produce a cooperative project that would be equitably
+distributed around the country, and one in which LC would be dealing with
+a minimal number of publishers and minimal copyright problems.
+
+GRABER remarked the recent development in the scientific community of a
+willingness to use SGML and either deposit or interchange on a fairly
+standardized format.  He wondered if a similar movement was taking place
+in the humanities.  Although the National Library of Medicine found only
+a few publishers to cooperate in a like venture two or three years ago, a
+new effort might generate a much larger number willing to cooperate.
+
+KIMBALL recounted his unit's (Machine-Readable Collections Reading Room)
+troubles with the commercial publishers of electronic media in acquiring
+materials for LC's collections, in particular the publishers' fear that
+they would not be able to cover their costs and would lose control of
+their products, that LC would give them away or sell them and make
+profits from them.  He doubted that the publishing industry was prepared
+to move into this area at the moment, given its resistance to allowing LC
+to use its machine-readable materials as the Library would like.
+
+The copyright law now addresses compact disk as a medium, and LC can
+request one copy of that, or two copies if it is the only version, and
+can request copies of software, but that fails to address magazines or
+books or anything like that which is in machine-readable form.
+
+GIFFORD acknowledged the thorny nature of this issue, which he illustrated
+with the example of the cumbersome process involved in putting a copy of a
+scientific database on a LAN in LC's science reading room.  He also
+acknowledged that LC needs help and could enlist the energies and talents
+of Workshop participants in thinking through a number of these problems.
+
+GIFFORD returned the discussion to getting the image and text people to
+think through together where they want to go in the long term.  MYLONAS
+conceded that her experience at the Pierce Symposium the previous week at
+Georgetown University and this week at LC had forced her to reevaluate
+her perspective on the usefulness of text as images.  MYLONAS framed the
+issues in a series of questions:  How do we acquire machine-readable
+text?  Do we take pictures of it and perform OCR on it later?  Is it
+important to obtain very high-quality images and text, etc.? 
+FLEISCHHAUER agreed with MYLONAS's framing of strategic questions, adding
+that a large institution such as LC probably has to do all of those
+things at different times.  Thus, the trick is to exercise judgment.  The
+Workshop had added to his and AM's considerations in making those
+judgments.  Concerning future meetings or discussions, MYLONAS suggested
+that screening priorities would be helpful.
+
+WEIBEL opined that the diversity reflected in this group was a sign both
+of the health and of the immaturity of the field, and more time would
+have to pass before we convince one another concerning standards.
+
+An exchange between MYLONAS and BATTIN clarified the point that the
+driving force behind both the Perseus and the Cornell Xerox projects was
+the preservation of knowledge for the future, not simply for particular
+research use.  In the case of Perseus, MYLONAS said, the assumption was
+that the texts would not be entered again into electronically readable
+form.  SPERBERG-McQUEEN added that a scanned image would not serve as an
+archival copy for purposes of preservation in the case of, say, the Bill
+of Rights, in the sense that the scanned images are effectively the
+archival copies for the Cornell mathematics books.
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                          Appendix I:  PROGRAM
+
+
+
+                                WORKSHOP
+                                   ON
+                               ELECTRONIC
+                                  TEXTS
+
+
+
+                             9-10 June 1992
+
+                           Library of Congress
+                            Washington, D.C.
+
+
+
+    Supported by a Grant from the David and Lucile Packard Foundation
+
+
+Tuesday, 9 June 1992
+
+NATIONAL DEMONSTRATION LAB, ATRIUM, LIBRARY MADISON
+
+8:30 AM   Coffee and Danish, registration
+
+9:00 AM   Welcome
+
+          Prosser Gifford, Director for Scholarly Programs, and Carl
+             Fleischhauer, Coordinator, American Memory, Library of
+             Congress
+
+9:l5 AM   Session I.  Content in a New Form:  Who Will Use It and What
+          Will They Do?
+
+          Broad description of the range of electronic information. 
+          Characterization of who uses it and how it is or may be used. 
+          In addition to a look at scholarly uses, this session will
+          include a presentation on use by students (K-12 and college)
+          and the general public.
+
+          Moderator:  James Daly
+          Avra Michelson, Archival Research and Evaluation Staff,
+             National Archives and Records Administration (Overview)
+          Susan H. Veccia, Team Leader, American Memory, User Evaluation,
+             and
+          Joanne Freeman, Associate Coordinator, American Memory, Library
+             of Congress (Beyond the scholar)
+
+10:30-
+11:00 AM  Break
+
+11:00 AM  Session II.  Show and Tell.
+
+          Each presentation to consist of a fifteen-minute
+          statement/show; group discussion will follow lunch.
+
+          Moderator:  Jacqueline Hess, Director, National Demonstration
+             Lab
+
+            1.  A classics project, stressing texts and text retrieval
+                more than multimedia:  Perseus Project, Harvard
+                University
+                Elli Mylonas, Managing Editor
+
+            2.  Other humanities projects employing the emerging norms of
+                the Text Encoding Initiative (TEI):  Chadwyck-Healey's
+                The English Poetry Full Text Database and/or Patrologia
+                Latina Database
+                Eric M. Calaluca, Vice President, Chadwyck-Healey, Inc.
+
+            3.  American Memory
+                Carl Fleischhauer, Coordinator, and
+                Ricky Erway, Associate Coordinator, Library of Congress
+
+            4.  Founding Fathers example from Packard Humanities
+                Institute:  The Papers of George Washington, University
+                of Virginia
+                Dorothy Twohig, Managing Editor, and/or
+                David Woodley Packard
+
+            5.  An electronic medical journal offering graphics and
+                full-text searchability:  The Online Journal of Current
+                Clinical Trials, American Association for the Advancement
+                of Science
+                Maria L. Lebron, Managing Editor
+
+            6.  A project that offers facsimile images of pages but omits
+                searchable text:  Cornell math books
+                Lynne K. Personius, Assistant Director, Cornell
+                   Information Technologies for Scholarly Information
+                   Sources, Cornell University
+
+12:30 PM  Lunch  (Dining Room A, Library Madison 620.  Exhibits
+          available.)
+
+1:30 PM   Session II.  Show and Tell (Cont'd.).
+
+3:00-
+3:30 PM   Break
+
+3:30-
+5:30 PM   Session III.  Distribution, Networks, and Networking:  Options
+          for Dissemination.
+
+          Published disks:  University presses and public-sector
+             publishers, private-sector publishers
+          Computer networks
+
+          Moderator:  Robert G. Zich, Special Assistant to the Associate
+             Librarian for Special Projects, Library of Congress
+          Clifford A. Lynch, Director, Library Automation, University of
+             California
+          Howard Besser, School of Library and Information Science,
+             University of Pittsburgh
+          Ronald L. Larsen, Associate Director of Libraries for
+             Information Technology, University of Maryland at College
+             Park
+          Edwin B. Brownrigg, Executive Director, Memex Research
+             Institute
+
+6:30 PM   Reception  (Montpelier Room, Library Madison 619.)
+
+                                 ******
+
+Wednesday, 10 June 1992
+
+DINING ROOM A, LIBRARY MADISON 620
+
+8:30 AM   Coffee and Danish
+
+9:00 AM   Session IV.  Image Capture, Text Capture, Overview of Text and
+          Image Storage Formats.
+
+          Moderator:  William L. Hooton, Vice President of Operations,
+             I-NET
+
+          A) Principal Methods for Image Capture of Text:
+             Direct scanning
+             Use of microform
+
+          Anne R. Kenney, Assistant Director, Department of Preservation
+             and Conservation, Cornell University
+          Pamela Q.J. Andre, Associate Director, Automation, and
+          Judith A. Zidar, Coordinator, National Agricultural Text
+             Digitizing Program (NATDP), National Agricultural Library
+             (NAL)
+          Donald J. Waters, Head, Systems Office, Yale University Library
+
+          B) Special Problems:
+             Bound volumes
+             Conservation
+             Reproducing printed halftones
+
+          Carl Fleischhauer, Coordinator, American Memory, Library of
+             Congress
+          George Thoma, Chief, Communications Engineering Branch,
+             National Library of Medicine (NLM)
+
+10:30-
+11:00 AM  Break
+
+11:00 AM  Session IV.  Image Capture, Text Capture, Overview of Text and
+          Image Storage Formats (Cont'd.).
+
+          C) Image Standards and Implications for Preservation
+
+          Jean Baronas, Senior Manager, Department of Standards and
+             Technology, Association for Information and Image Management
+             (AIIM)
+          Patricia Battin, President, The Commission on Preservation and
+             Access (CPA)
+
+          D) Text Conversion:
+             OCR vs. rekeying
+             Standards of accuracy and use of imperfect texts
+             Service bureaus
+
+          Stuart Weibel, Senior Research Specialist, Online Computer
+             Library Center, Inc. (OCLC)
+          Michael Lesk, Executive Director, Computer Science Research,
+             Bellcore
+          Ricky Erway, Associate Coordinator, American Memory, Library of
+             Congress
+          Pamela Q.J. Andre, Associate Director, Automation, and
+          Judith A. Zidar, Coordinator, National Agricultural Text
+             Digitizing Program (NATDP), National Agricultural Library
+             (NAL)
+
+12:30-
+1:30 PM   Lunch
+
+1:30 PM   Session V.  Approaches to Preparing Electronic Texts.
+
+          Discussion of approaches to structuring text for the computer;
+          pros and cons of text coding, description of methods in
+          practice, and comparison of text-coding methods.
+
+          Moderator:  Susan Hockey, Director, Center for Electronic Texts
+             in the Humanities (CETH), Rutgers and Princeton Universities
+          David Woodley Packard
+          C.M. Sperberg-McQueen, Editor, Text Encoding Initiative (TEI),
+             University of Illinois-Chicago
+          Eric M. Calaluca, Vice President, Chadwyck-Healey, Inc.
+
+3:30-
+4:00 PM   Break
+
+4:00 PM   Session VI.  Copyright Issues.
+
+          Marybeth Peters, Policy Planning Adviser to the Register of
+             Copyrights, Library of Congress
+
+5:00 PM   Session VII. Conclusion.
+
+          General discussion.
+          What topics were omitted or given short shrift that anyone
+             would like to talk about now?
+          Is there a "group" here?  What should the group do next, if
+             anything?  What should the Library of Congress do next, if
+             anything?
+          Moderator:  Prosser Gifford, Director for Scholarly Programs,
+             Library of Congress
+
+6:00 PM   Adjourn
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                         Appendix II:  ABSTRACTS
+
+
+SESSION I
+
+Avra MICHELSON           Forecasting the Use of Electronic Texts by
+                         Social Sciences and Humanities Scholars
+
+This presentation explores the ways in which electronic texts are likely
+to be used by the non-scientific scholarly community.  Many of the
+remarks are drawn from a report the speaker coauthored with Jeff
+Rothenberg, a computer scientist at The RAND Corporation.
+
+The speaker assesses 1) current scholarly use of information technology
+and 2) the key trends in information technology most relevant to the
+research process, in order to predict how social sciences and humanities
+scholars are apt to use electronic texts.  In introducing the topic,
+current use of electronic texts is explored broadly within the context of
+scholarly communication.  From the perspective of scholarly
+communication, the work of humanities and social sciences scholars
+involves five processes:  1) identification of sources, 2) communication
+with colleagues, 3) interpretation and analysis of data, 4) dissemination
+of research findings, and 5) curriculum development and instruction.  The
+extent to which computation currently permeates aspects of scholarly
+communication represents a viable indicator of the prospects for
+electronic texts.
+
+The discussion of current practice is balanced by an analysis of key
+trends in the scholarly use of information technology.  These include the
+trends toward end-user computing and connectivity, which provide a
+framework for forecasting the use of electronic texts through this
+millennium.  The presentation concludes with a summary of the ways in
+which the nonscientific scholarly community can be expected to use
+electronic texts, and the implications of that use for information
+providers.
+
+Susan VECCIA and Joanne FREEMAN    Electronic Archives for the Public: 
+                                   Use of American Memory in Public and
+                                   School Libraries
+
+This joint discussion focuses on nonscholarly applications of electronic
+library materials, specifically addressing use of the Library of Congress
+American Memory (AM) program in a small number of public and school
+libraries throughout the United States.  AM consists of selected Library
+of Congress primary archival materials, stored on optical media
+(CD-ROM/videodisc), and presented with little or no editing.  Many
+collections are accompanied by electronic introductions and user's guides
+offering background information and historical context.  Collections
+represent a variety of formats including photographs, graphic arts,
+motion pictures, recorded sound, music, broadsides and manuscripts,
+books, and pamphlets.
+
+In 1991, the Library of Congress began a nationwide evaluation of AM in
+different types of institutions.  Test sites include public libraries,
+elementary and secondary school libraries, college and university
+libraries, state libraries, and special libraries.  Susan VECCIA and
+Joanne FREEMAN will discuss their observations on the use of AM by the
+nonscholarly community, using evidence gleaned from this ongoing
+evaluation effort.
+
+VECCIA will comment on the overall goals of the evaluation project, and
+the types of public and school libraries included in this study.  Her
+comments on nonscholarly use of AM will focus on the public library as a
+cultural and community institution, often bridging the gap between formal
+and informal education.  FREEMAN will discuss the use of AM in school
+libraries.  Use by students and teachers has revealed some broad
+questions about the use of electronic resources, as well as definite
+benefits gained by the "nonscholar."  Topics will include the problem of
+grasping content and context in an electronic environment, the stumbling
+blocks created by "new" technologies, and the unique skills and interests
+awakened through use of electronic resources.
+
+SESSION II
+
+Elli MYLONAS             The Perseus Project:  Interactive Sources and
+                         Studies in Classical Greece
+
+The Perseus Project (5) has just released Perseus 1.0, the first publicly
+available version of its hypertextual database of multimedia materials on
+classical Greece.  Perseus is designed to be used by a wide audience,
+comprised of readers at the student and scholar levels.  As such, it must
+be able to locate information using different strategies, and it must
+contain enough detail to serve the different needs of its users.  In
+addition, it must be delivered so that it is affordable to its target
+audience.  [These problems and the solutions we chose are described in
+Mylonas, "An Interface to Classical Greek Civilization," JASIS 43:2,
+March 1992.]
+
+In order to achieve its objective, the project staff decided to make a
+conscious separation between selecting and converting textual, database,
+and image data on the one hand, and putting it into a delivery system on
+the other.  That way, it is possible to create the electronic data
+without thinking about the restrictions of the delivery system.  We have
+made a great effort to choose system-independent formats for our data,
+and to put as much thought and work as possible into structuring it so
+that the translation from paper to electronic form will enhance the value
+of the data. [A discussion of these solutions as of two years ago is in
+Elli Mylonas, Gregory Crane, Kenneth Morrell, and D. Neel Smith, "The
+Perseus Project:  Data in the Electronic Age," in Accessing Antiquity: 
+The Computerization of Classical Databases, J. Solomon and T. Worthen
+(eds.),  University of Arizona Press, in press.]
+
+Much of the work on Perseus is focused on collecting and converting the
+data on which the project is based.  At the same time, it is necessary to
+provide means of access to the information, in order to make it usable,
+and them to investigate how it is used.  As we learn more about what
+students and scholars from different backgrounds do with Perseus, we can
+adjust our data collection, and also modify the system to accommodate
+them.  In creating a delivery system for general use, we have tried to
+avoid favoring any one type of use by allowing multiple forms of access
+to and navigation through the system.
+
+The way text is handled exemplifies some of these principles.  All text
+in Perseus is tagged using SGML, following the guidelines of the Text
+Encoding Initiative (TEI).  This markup is used to index the text, and
+process it so that it can be imported into HyperCard.  No SGML markup
+remains in the text that reaches the user, because currently it would be
+too expensive to create a system that acts on SGML in real time. 
+However, the regularity provided by SGML is essential for verifying the
+content of the texts, and greatly speeds all the processing performed on
+them.  The fact that the texts exist in SGML ensures that they will be
+relatively easy to port to different hardware and software, and so will
+outlast the current delivery platform.  Finally, the SGML markup
+incorporates existing canonical reference systems (chapter, verse, line,
+etc.); indexing and navigation are based on these features.  This ensures
+that the same canonical reference will always resolve to the same point
+within a text, and that all versions of our texts, regardless of delivery
+platform (even paper printouts) will function the same way.
+
+In order to provide tools for users, the text is processed by a
+morphological analyzer, and the results are stored in a database. 
+Together with the index, the Greek-English Lexicon, and the index of all
+the English words in the definitions of the lexicon, the morphological
+analyses comprise a set of linguistic tools that allow users of all
+levels to work with the textual information, and to accomplish different
+tasks.  For example, students who read no Greek may explore a concept as
+it appears in Greek texts by using the English-Greek index, and then
+looking up works in the texts and translations, or scholars may do
+detailed morphological studies of word use by using the morphological
+analyses of the texts.  Because these tools were not designed for any one
+use, the same tools and the same data can be used by both students and
+scholars.
+
+NOTES:
+     (5)  Perseus is based at Harvard University, with collaborators at
+     several other universities.  The project has been funded primarily
+     by the Annenberg/CPB Project, as well as by Harvard University,
+     Apple Computer, and others.  It is published by Yale University
+     Press.  Perseus runs on Macintosh computers, under the HyperCard
+     program.
+
+Eric CALALUCA
+
+Chadwyck-Healey embarked last year on two distinct yet related full-text
+humanities database projects.
+
+The English Poetry Full-Text Database and the Patrologia Latina Database
+represent new approaches to linguistic research resources.  The size and
+complexity of the projects present problems for electronic publishers,
+but surmountable ones if they remain abreast of the latest possibilities
+in data capture and retrieval software techniques.
+
+The issues which required address prior to the commencement of the
+projects were legion:
+
+     1.   Editorial selection (or exclusion) of materials in each
+          database
+
+     2.   Deciding whether or not to incorporate a normative encoding
+          structure into the databases?
+               A.  If one is selected, should it be SGML?
+               B.  If SGML, then the TEI?
+     
+     3.   Deliver as CD-ROM, magnetic tape, or both?
+
+     4.   Can one produce retrieval software advanced enough for the
+          postdoctoral linguist, yet accessible enough for unattended
+          general use?  Should one try?
+
+     5.   Re fair and liberal networking policies, what are the risks to
+          an electronic publisher?
+
+     6.   How does the emergence of national and international education
+          networks affect the use and viability of research projects
+          requiring high investment?  Do the new European Community
+          directives concerning database protection necessitate two
+          distinct publishing projects, one for North America and one for
+          overseas?
+
+From new notions of "scholarly fair use" to the future of optical media,
+virtually every issue related to electronic publishing was aired.  The
+result is two projects which have been constructed to provide the quality
+research resources with the fewest encumbrances to use by teachers and
+private scholars.
+
+Dorothy TWOHIG
+
+In spring 1988 the editors of the papers of George Washington, John
+Adams, Thomas Jefferson, James Madison, and Benjamin Franklin were
+approached by classics scholar David Packard on behalf of the Packard
+Humanities Foundation with a proposal to produce a CD-ROM edition of the
+complete papers of each of the Founding Fathers.  This electronic edition
+will supplement the published volumes, making the documents widely
+available to students and researchers at reasonable cost.  We estimate
+that our CD-ROM edition of Washington's Papers will be substantially
+completed within the next two years and ready for publication.  Within
+the next ten years or so, similar CD-ROM editions of the Franklin, Adams,
+Jefferson, and Madison papers also will be available.  At the Library of
+Congress's session on technology, I would like to discuss not only the
+experience of the Washington Papers in producing the CD-ROM edition, but
+the impact technology has had on these major editorial projects. 
+Already, we are editing our volumes with an eye to the material that will
+be readily available in the CD-ROM edition.  The completed electronic
+edition will provide immense possibilities for the searching of documents
+for information in a way never possible before.  The kind of technical
+innovations that are currently available and on the drawing board will
+soon revolutionize historical research and the production of historical
+documents.  Unfortunately, much of this new technology is not being used
+in the planning stages of historical projects, simply because many
+historians are aware only in the vaguest way of its existence.  At least
+two major new historical editing projects are considering microfilm
+editions, simply because they are not aware of the possibilities of
+electronic alternatives and the advantages of the new technology in terms
+of flexibility and research potential compared to microfilm.  In fact,
+too many of us in history and literature are still at the stage of
+struggling with our PCs.  There are many historical editorial projects in
+progress presently, and an equal number of literary projects.  While the
+two fields have somewhat different approaches to textual editing, there
+are ways in which electronic technology can be of service to both.
+
+Since few of the editors involved in the Founding Fathers CD-ROM editions
+are technical experts in any sense, I hope to point out in my discussion
+of our experience how many of these electronic innovations can be used
+successfully by scholars who are novices in the world of new technology. 
+One of the major concerns of the sponsors of the multitude of new
+scholarly editions is the limited audience reached by the published
+volumes.  Most of these editions are being published in small quantities
+and the publishers' price for them puts them out of the reach not only of
+individual scholars but of most public libraries and all but the largest
+educational institutions.  However, little attention is being given to
+ways in which technology can bypass conventional publication to make
+historical and literary documents more widely available.
+
+What attracted us most to the CD-ROM edition of The Papers of George
+Washington was the fact that David Packard's aim was to make a complete
+edition of all of the 135,000 documents we have collected available in an
+inexpensive format that would be placed in public libraries, small
+colleges, and even high schools.  This would provide an audience far
+beyond our present 1,000-copy, $45 published edition.  Since the CD-ROM
+edition will carry none of the explanatory annotation that appears in the
+published volumes, we also feel that the use of the CD-ROM will lead many
+researchers to seek out the published volumes.
+
+In addition to ignorance of new technical advances, I have found that too
+many editors--and historians and literary scholars--are resistant and
+even hostile to suggestions that electronic technology may enhance their
+work.  I intend to discuss some of the arguments traditionalists are
+advancing to resist technology, ranging from distrust of the speed with
+which it changes (we are already wondering what is out there that is
+better than CD-ROM) to suspicion of the technical language used to
+describe electronic developments.
+
+Maria LEBRON
+
+The Online Journal of Current Clinical Trials, a joint venture of the
+American Association for the Advancement of Science (AAAS) and the Online
+Computer Library Center, Inc. (OCLC), is the first peer-reviewed journal
+to provide full text, tabular material, and line illustrations on line. 
+This presentation will discuss the genesis and start-up period of the
+journal.  Topics of discussion will include historical overview,
+day-to-day management of the editorial peer review, and manuscript
+tagging and publication.  A demonstration of the journal and its features
+will accompany the presentation.
+
+Lynne PERSONIUS
+
+Cornell University Library, Cornell Information Technologies, and Xerox
+Corporation, with the support of the Commission on Preservation and
+Access, and Sun Microsystems, Inc., have been collaborating in a project
+to test a prototype system for recording brittle books as digital images
+and producing, on demand, high-quality archival paper replacements.  The
+project goes beyond that, however, to investigate some of the issues
+surrounding scanning, storing, retrieving, and providing access to
+digital images in a network environment.
+
+The Joint Study in Digital Preservation began in January 1990.  Xerox
+provided the College Library Access and Storage System (CLASS) software,
+a prototype 600-dots-per-inch (dpi) scanner, and the hardware necessary
+to support network printing on the DocuTech printer housed in Cornell's
+Computing and Communications Center (CCC).
+
+The Cornell staff using the hardware and software became an integral part
+of the development and testing process for enhancements to the CLASS
+software system.  The collaborative nature of this relationship is
+resulting in a system that is specifically tailored to the preservation
+application.
+
+A digital library of 1,000 volumes (or approximately 300,000 images) has
+been created and is stored on an optical jukebox that resides in CCC. 
+The library includes a collection of select mathematics monographs that
+provides mathematics faculty with an opportunity to use the electronic
+library.  The remaining volumes were chosen for the library to test the
+various capabilities of the scanning system.
+
+One project objective is to provide users of the Cornell library and the
+library staff with the ability to request facsimiles of digitized images
+or to retrieve the actual electronic image for browsing.  A prototype
+viewing workstation has been created by Xerox, with input into the design
+by a committee of Cornell librarians and computer professionals.  This
+will allow us to experiment with patron access to the images that make up
+the digital library.  The viewing station provides search, retrieval, and
+(ultimately) printing functions with enhancements to facilitate
+navigation through multiple documents.
+
+Cornell currently is working to extend access to the digital library to
+readers using workstations from their offices.  This year is devoted to
+the development of a network resident image conversion and delivery
+server, and client software that will support readers who use Apple
+Macintosh computers, IBM windows platforms, and Sun workstations. 
+Equipment for this development was provided by Sun Microsystems with
+support from the Commission on Preservation and Access.
+
+During the show-and-tell session of the Workshop on Electronic Texts, a
+prototype view station will be demonstrated.  In addition, a display of
+original library books that have been digitized will be available for
+review with associated printed copies for comparison.  The fifteen-minute
+overview of the project will include a slide presentation that
+constitutes a "tour" of the preservation digitizing process.
+
+The final network-connected version of the viewing station will provide
+library users with another mechanism for accessing the digital library,
+and will also provide the capability of viewing images directly.  This
+will not require special software, although a powerful computer with good
+graphics will be needed.
+
+The Joint Study in Digital Preservation has generated a great deal of
+interest in the library community.  Unfortunately, or perhaps
+fortunately, this project serves to raise a vast number of other issues
+surrounding the use of digital technology for the preservation and use of
+deteriorating library materials, which subsequent projects will need to
+examine.  Much work remains.
+
+SESSION III
+
+Howard BESSER                      Networking Multimedia Databases
+
+What do we have to consider in building and distributing databases of
+visual materials in a multi-user environment?  This presentation examines
+a variety of concerns that need to be addressed before a multimedia
+database can be set up in a networked environment.
+
+In the past it has not been feasible to implement databases of visual
+materials in shared-user environments because of technological barriers. 
+Each of the two basic models for multi-user multimedia databases has
+posed its own problem.  The analog multimedia storage model (represented
+by Project Athena's parallel analog and digital networks) has required an
+incredibly complex (and expensive) infrastructure.  The economies of
+scale that make multi-user setups cheaper per user served do not operate
+in an environment that requires a computer workstation, videodisc player,
+and two display devices for each user.
+
+The digital multimedia storage model has required vast amounts of storage
+space (as much as one gigabyte per thirty still images).  In the past the
+cost of such a large amount of storage space made this model a
+prohibitive choice as well.  But plunging storage costs are finally
+making this second alternative viable.
+
+If storage no longer poses such an impediment, what do we need to
+consider in building digitally stored multi-user databases of visual
+materials?  This presentation will examine the networking and
+telecommunication constraints that must be overcome before such databases
+can become commonplace and useful to a large number of people.
+
+The key problem is the vast size of multimedia documents, and how this
+affects not only storage but telecommunications transmission time. 
+Anything slower than T-1 speed is impractical for files of 1 megabyte or
+larger (which is likely to be small for a multimedia document).  For
+instance, even on a 56 Kb line it would take three minutes to transfer a
+1-megabyte file.  And these figures assume ideal circumstances, and do
+not take into consideration other users contending for network bandwidth,
+disk access time, or the time needed for remote display.  Current common
+telephone transmission rates would be completely impractical; few users
+would be willing to wait the hour necessary to transmit a single image at
+2400 baud.
+
+This necessitates compression, which itself raises a number of other
+issues.  In order to decrease file sizes significantly, we must employ
+lossy compression algorithms.  But how much quality can we afford to
+lose?  To date there has been only one significant study done of
+image-quality needs for a particular user group, and this study did not
+look at loss resulting from compression.  Only after identifying
+image-quality needs can we begin to address storage and network bandwidth
+needs.
+
+Experience with X-Windows-based applications (such as Imagequery, the
+University of California at Berkeley image database) demonstrates the
+utility of a client-server topology, but also points to the limitation of
+current software for a distributed environment.  For example,
+applications like Imagequery can incorporate compression, but current X
+implementations do not permit decompression at the end user's
+workstation.  Such decompression at the host computer alleviates storage
+capacity problems while doing nothing to address problems of
+telecommunications bandwidth.
+
+We need to examine the effects on network through-put of moving
+multimedia documents around on a network.  We need to examine various
+topologies that will help us avoid bottlenecks around servers and
+gateways.  Experience with applications such as these raise still broader
+questions. How closely is the multimedia document tied to the software
+for viewing it?  Can it be accessed and viewed from other applications? 
+Experience with the MARC format (and more recently with the Z39.50
+protocols) shows how useful it can be to store documents in a form in
+which they can be accessed by a variety of application software.
+
+Finally, from an intellectual-access standpoint, we need to address the
+issue of providing access to these multimedia documents in
+interdisciplinary environments.  We need to examine terminology and
+indexing strategies that will allow us to provide access to this material
+in a cross-disciplinary way.
+
+Ronald LARSEN            Directions in High-Performance Networking for
+                         Libraries
+
+The pace at which computing technology has advanced over the past forty
+years shows no sign of abating.  Roughly speaking, each five-year period
+has yielded an order-of-magnitude improvement in price and performance of
+computing equipment.  No fundamental hurdles are likely to prevent this
+pace from continuing for at least the next decade.  It is only in the
+past five years, though, that computing has become ubiquitous in
+libraries, affecting all staff and patrons, directly or indirectly.
+
+During these same five years, communications rates on the Internet, the
+principal academic computing network, have grown from 56 kbps to 1.5
+Mbps, and the NSFNet backbone is now running 45 Mbps.  Over the next five
+years, communication rates on the backbone are expected to exceed 1 Gbps. 
+Growth in both the population of network users and the volume of network
+traffic  has continued to grow geometrically, at rates approaching 15
+percent per month.  This flood of capacity and use, likened by some to
+"drinking from a firehose,"  creates immense opportunities and challenges
+for libraries.  Libraries must anticipate the future implications of this
+technology, participate in its development, and deploy it to ensure
+access to the world's information resources.
+
+The infrastructure for the information age is being put in place. 
+Libraries face strategic decisions about their role in the development,
+deployment, and use of this infrastructure.  The emerging infrastructure
+is much more than computers and communication lines.  It is more than the
+ability to compute at a remote site, send electronic mail to a peer
+across the country, or move a file from one library to another.  The next
+five years will witness substantial development of the information
+infrastructure of the network.
+
+In order to provide appropriate leadership, library professionals must
+have a fundamental understanding of and appreciation for computer
+networking, from local area networks to the National Research and
+Education Network (NREN).  This presentation addresses these
+fundamentals, and how they relate to libraries today and in the near
+future.
+
+Edwin BROWNRIGG               Electronic Library Visions and Realities
+
+The electronic library has been a vision desired by many--and rejected by
+some--since Vannevar Bush coined the term memex to describe an automated,
+intelligent, personal information system.  Variations on this vision have
+included Ted Nelson's Xanadau, Alan Kay's Dynabook, and Lancaster's
+"paperless library," with the most recent incarnation being the
+"Knowledge Navigator" described by John Scully of Apple.  But the reality
+of library service has been less visionary and the leap to the electronic
+library has eluded universities, publishers, and information technology
+files.
+
+The Memex Research Institute (MemRI), an independent, nonprofit research
+and development organization, has created an Electronic Library Program
+of shared research and development in order to make the collective vision
+more concrete.  The program is working toward the creation of large,
+indexed publicly available electronic image collections of published
+documents in academic, special, and public libraries.  This strategic
+plan is the result of the first stage of the program, which has been an
+investigation of the information technologies available to support such
+an effort, the economic parameters of electronic service compared to
+traditional library operations, and the business and political factors
+affecting the shift from print distribution to electronic networked
+access.
+
+The strategic plan envisions a combination of publicly searchable access
+databases, image (and text) document collections stored on network "file
+servers," local and remote network access, and an intellectual property
+management-control system.  This combination of technology and
+information content is defined in this plan as an E-library or E-library
+collection.  Some participating sponsors are already developing projects
+based on MemRI's recommended directions.
+
+The E-library strategy projected in this plan is a visionary one that can
+enable major changes and improvements in academic, public, and special
+library service.  This vision is, though, one that can be realized with
+today's technology.  At the same time, it will challenge the political
+and social structure within which libraries operate:  in academic
+libraries, the traditional emphasis on local collections, extending to
+accreditation issues; in public libraries, the potential of electronic
+branch and central libraries fully available to the public; and for
+special libraries, new opportunities for shared collections and networks.
+
+The environment in which this strategic plan has been developed is, at
+the moment, dominated by a sense of library limits.  The continued
+expansion and rapid growth of local academic library collections is now
+clearly at an end.  Corporate libraries, and even law libraries, are
+faced with operating within a difficult economic climate, as well as with
+very active competition from commercial information sources.  For
+example, public libraries may be seen as a desirable but not critical
+municipal service in a time when the budgets of safety and health
+agencies are being cut back.
+
+Further, libraries in general have a very high labor-to-cost ratio in
+their budgets, and labor costs are still increasing, notwithstanding
+automation investments.  It is difficult for libraries to obtain capital,
+startup, or seed funding for innovative activities, and those
+technology-intensive initiatives that offer the potential of decreased
+labor costs can provoke the opposition of library staff.
+
+However, libraries have achieved some considerable successes in the past
+two decades by improving both their service and their credibility within
+their organizations--and these positive changes have been accomplished
+mostly with judicious use of information technologies.  The advances in
+computing and information technology have been well-chronicled:  the
+continuing precipitous drop in computing costs, the growth of the
+Internet and private networks, and the explosive increase in publicly
+available information databases.
+
+For example, OCLC has become one of the largest computer network
+organizations in the world by creating a cooperative cataloging network
+of more than 6,000 libraries worldwide.  On-line public access catalogs
+now serve millions of users on more than 50,000 dedicated terminals in
+the United States alone.  The University of California MELVYL on-line
+catalog system has now expanded into an index database reference service
+and supports more than six million searches a year.  And, libraries have
+become the largest group of customers of CD-ROM publishing technology;
+more than 30,000 optical media publications such as those offered by
+InfoTrac and Silver Platter are subscribed to by U.S. libraries.
+
+This march of technology continues and in the next decade will result in
+further innovations that are extremely difficult to predict.  What is
+clear is that libraries can now go beyond automation of their order files
+and catalogs to automation of their collections themselves--and it is
+possible to circumvent the fiscal limitations that appear to obtain
+today.
+
+This Electronic Library Strategic Plan recommends a paradigm shift in
+library service, and demonstrates the steps necessary to provide improved
+library services with limited capacities and operating investments.
+
+SESSION IV-A
+
+Anne KENNEY
+
+The Cornell/Xerox Joint Study in Digital Preservation resulted in the
+recording of 1,000 brittle books as 600-dpi digital images and the
+production, on demand, of high-quality and archivally sound paper
+replacements.  The project, which was supported by the Commission on
+Preservation and Access, also investigated some of the issues surrounding
+scanning, storing, retrieving, and providing access to digital images in
+a network environment.
+
+Anne Kenney will focus on some of the issues surrounding direct scanning
+as identified in the Cornell Xerox Project.  Among those to be discussed
+are:  image versus text capture; indexing and access; image-capture
+capabilities; a comparison to photocopy and microfilm; production and
+cost analysis; storage formats, protocols, and standards; and the use of
+this scanning technology for preservation purposes.
+
+The 600-dpi digital images produced in the Cornell Xerox Project proved
+highly acceptable for creating paper replacements of deteriorating
+originals.  The 1,000 scanned volumes provided an array of image-capture
+challenges that are common to nineteenth-century printing techniques and
+embrittled material, and that defy the use of text-conversion processes. 
+These challenges include diminished contrast between text and background,
+fragile and deteriorated pages, uneven printing, elaborate type faces,
+faint and bold text adjacency, handwritten text and annotations, nonRoman
+languages, and a proliferation of illustrated material embedded in text. 
+The latter category included high-frequency and low-frequency halftones,
+continuous tone photographs, intricate mathematical drawings, maps,
+etchings, reverse-polarity drawings, and engravings.
+
+The Xerox prototype scanning system provided a number of important
+features for capturing this diverse material.  Technicians used multiple
+threshold settings, filters, line art and halftone definitions,
+autosegmentation, windowing, and software-editing programs to optimize
+image capture.  At the same time, this project focused on production. 
+The goal was to make scanning as affordable and acceptable as
+photocopying and microfilming for preservation reformatting.  A
+time-and-cost study conducted during the last three months of this
+project confirmed the economic viability of digital scanning, and these
+findings will be discussed here.
+
+From the outset, the Cornell Xerox Project was predicated on the use of
+nonproprietary standards and the use of common protocols when standards
+did not exist.  Digital files were created as TIFF images which were
+compressed prior to storage using Group 4 CCITT compression.  The Xerox
+software is MS DOS based and utilizes off-the shelf programs such as
+Microsoft Windows and Wang Image Wizard.  The digital library is designed
+to be hardware-independent and to provide interchangeability with other
+institutions through network connections.  Access to the digital files
+themselves is two-tiered:  Bibliographic records for the computer files
+are created in RLIN and Cornell's local system and access into the actual
+digital images comprising a book is provided through a document control
+structure and a networked image file-server, both of which will be
+described.
+
+The presentation will conclude with a discussion of some of the issues
+surrounding the use of this technology as a preservation tool (storage,
+refreshing, backup).
+
+Pamela ANDRE and Judith ZIDAR
+
+The National Agricultural Library (NAL) has had extensive experience with
+raster scanning of printed materials.  Since 1987, the Library has
+participated in the National Agricultural Text Digitizing Project (NATDP)
+a cooperative effort between NAL and forty-five land grant university
+libraries.  An overview of the project will be presented, giving its
+history and NAL's strategy for the future.
+
+An in-depth discussion of NATDP will follow, including a description of
+the scanning process, from the gathering of the printed materials to the
+archiving of the electronic pages.  The type of equipment required for a
+stand-alone scanning workstation and the importance of file management
+software will be discussed.  Issues concerning the images themselves will
+be addressed briefly, such as image format; black and white versus color;
+gray scale versus dithering; and resolution.
+
+Also described will be a study currently in progress by NAL to evaluate
+the usefulness of converting microfilm to electronic images in order to
+improve access.  With the cooperation of Tuskegee University, NAL has
+selected three reels of microfilm from a collection of sixty-seven reels
+containing the papers, letters, and drawings of George Washington Carver. 
+The three reels were converted into 3,500 electronic images using a
+specialized microfilm scanner.  The selection, filming, and indexing of
+this material will be discussed.
+
+Donald WATERS
+
+Project Open Book, the Yale University Library's effort to convert 10,
+000 books from microfilm to digital imagery, is currently in an advanced
+state of planning and organization.  The Yale Library has selected a
+major vendor to serve as a partner in the project and as systems
+integrator.  In its proposal, the successful vendor helped isolate areas
+of risk and uncertainty as well as key issues to be addressed during the
+life of the project.  The Yale Library is now poised to decide what
+material it will convert to digital image form and to seek funding,
+initially for the first phase and then for the entire project.
+
+The proposal that Yale accepted for the implementation of Project Open
+Book will provide at the end of three phases a conversion subsystem,
+browsing stations distributed on the campus network within the Yale
+Library, a subsystem for storing 10,000 books at 200 and 600 dots per
+inch, and network access to the image printers.  Pricing for the system
+implementation assumes the existence of Yale's campus ethernet network
+and its high-speed image printers, and includes other requisite hardware
+and software, as well as system integration services.  Proposed operating
+costs include hardware and software maintenance, but do not include
+estimates for the facilities management of the storage devices and image
+servers.
+
+Yale selected its vendor partner in a formal process, partly funded by
+the Commission for Preservation and Access.  Following a request for
+proposal, the Yale Library selected two vendors as finalists to work with
+Yale staff to generate a detailed analysis of requirements for Project
+Open Book.  Each vendor used the results of the requirements analysis to
+generate and submit a formal proposal for the entire project.  This
+competitive process not only enabled the Yale Library to select its
+primary vendor partner but also revealed much about the state of the
+imaging industry, about the varying, corporate commitments to the markets
+for imaging technology, and about the varying organizational dynamics
+through which major companies are responding to and seeking to develop
+these markets.
+
+Project Open Book is focused specifically on the conversion of images
+from microfilm to digital form.  The technology for scanning microfilm is
+readily available but is changing rapidly.  In its project requirements,
+the Yale Library emphasized features of the technology that affect the
+technical quality of digital image production and the costs of creating
+and storing the image library:  What levels of digital resolution can be
+achieved by scanning microfilm?  How does variation in the quality of
+microfilm, particularly in film produced to preservation standards,
+affect the quality of the digital images?  What technologies can an
+operator effectively and economically apply when scanning film to
+separate two-up images and to control for and correct image
+imperfections?  How can quality control best be integrated into
+digitizing work flow that includes document indexing and storage?
+
+The actual and expected uses of digital images--storage, browsing,
+printing, and OCR--help determine the standards for measuring their
+quality.  Browsing is especially important, but the facilities available
+for readers to browse image documents is perhaps the weakest aspect of
+imaging technology and most in need of development.  As it defined its
+requirements, the Yale Library concentrated on some fundamental aspects
+of usability for image documents:  Does the system have sufficient
+flexibility to handle the full range of document types, including
+monographs, multi-part and multivolume sets, and serials, as well as
+manuscript collections?  What conventions are necessary to identify a
+document uniquely for storage and retrieval?  Where is the database of
+record for storing bibliographic information about the image document? 
+How are basic internal structures of documents, such as pagination, made
+accessible to the reader?  How are the image documents physically
+presented on the screen to the reader?
+
+The Yale Library designed Project Open Book on the assumption that
+microfilm is more than adequate as a medium for preserving the content of
+deteriorated library materials.  As planning in the project has advanced,
+it is increasingly clear that the challenge of digital image technology
+and the key to the success of efforts like Project Open Book is to
+provide a means of both preserving and improving access to those
+deteriorated materials.
+
+SESSION IV-B
+
+George THOMA
+
+In the use of electronic imaging for document preservation, there are
+several issues to consider, such as:  ensuring adequate image quality,
+maintaining substantial conversion rates (through-put), providing unique
+identification for automated access and retrieval, and accommodating
+bound volumes and fragile material.
+
+To maintain high image quality, image processing functions are required
+to correct the deficiencies in the scanned image.  Some commercially
+available systems include these functions, while some do not.  The
+scanned raw image must be processed to correct contrast deficiencies--
+both poor overall contrast resulting from light print and/or dark
+background, and variable contrast resulting from stains and
+bleed-through.  Furthermore, the scan density must be adequate to allow
+legibility of print and sufficient fidelity in the pseudo-halftoned gray
+material.  Borders or page-edge effects must be removed for both
+compactibility and aesthetics.  Page skew must be corrected for aesthetic
+reasons and to enable accurate character recognition if desired. 
+Compound images consisting of both two-toned text and gray-scale
+illustrations must be processed appropriately to retain the quality of
+each.
+
+SESSION IV-C
+
+Jean BARONAS
+
+Standards publications being developed by scientists, engineers, and
+business managers in Association for Information and Image Management
+(AIIM) standards committees can be applied to electronic image management
+(EIM) processes including:  document (image) transfer, retrieval and
+evaluation; optical disk and document scanning; and document design and
+conversion.  When combined with EIM system planning and operations,
+standards can assist in generating image databases that are
+interchangeable among a variety of systems.  The applications of
+different approaches for image-tagging, indexing, compression, and
+transfer often cause uncertainty concerning EIM system compatibility,
+calibration, performance, and upward compatibility, until standard
+implementation parameters are established.  The AIIM standards that are
+being developed for these applications can be used to decrease the
+uncertainty, successfully integrate imaging processes, and promote "open
+systems."  AIIM is an accredited American National Standards Institute
+(ANSI) standards developer with more than twenty committees comprised of
+300 volunteers representing users, vendors, and manufacturers.  The
+standards publications that are developed in these committees have
+national acceptance and provide the basis for international harmonization
+in the development of new International Organization for Standardization
+(ISO) standards.
+
+This presentation describes the development of AIIM's EIM standards and a
+new effort at AIIM, a database on standards projects in a wide framework
+of imaging industries including capture, recording, processing,
+duplication, distribution, display, evaluation, and preservation.  The
+AIIM Imagery Database will cover imaging standards being developed by
+many organizations in many different countries.  It will contain
+standards publications' dates, origins, related national and
+international projects, status, key words, and abstracts.  The ANSI Image
+Technology Standards Board requested that such a database be established,
+as did the ISO/International Electrotechnical Commission Joint Task Force
+on Imagery.  AIIM will take on the leadership role for the database and
+coordinate its development with several standards developers.
+
+Patricia BATTIN
+
+     Characteristics of standards for digital imagery:
+
+          * Nature of digital technology implies continuing volatility.
+
+          * Precipitous standard-setting not possible and probably not
+          desirable.
+
+          * Standards are a complex issue involving the medium, the
+          hardware, the software, and the technical capacity for
+          reproductive fidelity and clarity.
+
+          * The prognosis for reliable archival standards (as defined by
+          librarians) in the foreseeable future is poor.
+
+     Significant potential and attractiveness of digital technology as a
+     preservation medium and access mechanism.
+
+     Productive use of digital imagery for preservation requires a
+     reconceptualizing of preservation principles in a volatile,
+     standardless world.
+
+     Concept of managing continuing access in the digital environment
+     rather than focusing on the permanence of the medium and long-term
+     archival standards developed for the analog world.
+
+     Transition period:  How long and what to do?
+
+          *  Redefine "archival."
+
+          *  Remove the burden of "archival copy" from paper artifacts.
+
+          *  Use digital technology for storage, develop management
+          strategies for refreshing medium, hardware and software.
+
+          *  Create acid-free paper copies for transition period backup
+          until we develop reliable procedures for ensuring continuing
+          access to digital files.
+
+SESSION IV-D
+
+Stuart WEIBEL            The Role of SGML Markup in the CORE Project (6)
+
+The emergence of high-speed telecommunications networks as a basic
+feature of the scholarly workplace is driving the demand for electronic
+document delivery.  Three distinct categories of electronic
+publishing/republishing are necessary to support access demands in this
+emerging environment:
+
+     1.)  Conversion of paper or microfilm archives to electronic format
+     2.)  Conversion of electronic files to formats tailored to
+          electronic retrieval and display
+     3.)  Primary electronic publishing (materials for which the
+          electronic version is the primary format)
+
+OCLC has experimental or product development activities in each of these
+areas.  Among the challenges that lie ahead is the integration of these
+three types of information stores in coherent distributed systems.
+
+The CORE (Chemistry Online Retrieval Experiment) Project is a model for
+the conversion of large text and graphics collections for which
+electronic typesetting files are available (category 2).  The American
+Chemical Society has made available computer typography files dating from
+1980 for its twenty journals.  This collection of some 250 journal-years
+is being converted to an electronic format that will be accessible
+through several end-user applications.
+
+The use of Standard Generalized Markup Language (SGML) offers the means
+to capture the structural richness of the original articles in a way that
+will support a variety of retrieval, navigation, and display options
+necessary to navigate effectively in very large text databases.
+
+An SGML document consists of text that is marked up with descriptive tags
+that specify the function of a given element within the document.  As a
+formal language construct, an SGML document can be parsed against a
+document-type definition (DTD) that unambiguously defines what elements
+are allowed and where in the document they can (or must) occur.  This
+formalized map of article structure allows the user interface design to
+be uncoupled from the underlying database system, an important step
+toward interoperability.  Demonstration of this separability is a part of
+the CORE project, wherein user interface designs born of very different
+philosophies will access the same database.
+
+NOTES:
+     (6)  The CORE project is a collaboration among Cornell University's
+     Mann Library, Bell Communications Research (Bellcore), the American
+     Chemical Society (ACS), the Chemical Abstracts Service (CAS), and
+     OCLC.
+
+Michael LESK                  The CORE Electronic Chemistry Library
+
+A major on-line file of chemical journal literature complete with
+graphics is being developed to test the usability of fully electronic
+access to documents, as a joint project of Cornell University, the
+American Chemical Society, the Chemical Abstracts Service, OCLC, and
+Bellcore (with additional support from Sun Microsystems, Springer-Verlag,
+DigitaI Equipment Corporation, Sony Corporation of America, and Apple
+Computers).  Our file contains the American Chemical Society's on-line
+journals, supplemented with the graphics from the paper publication.  The
+indexing of the articles from Chemical Abstracts Documents is available
+in both image and text format, and several different interfaces can be
+used.  Our goals are (1) to assess the effectiveness and acceptability of
+electronic access to primary journals as compared with paper, and (2) to
+identify the most desirable functions of the user interface to an
+electronic system of journals, including in particular a comparison of
+page-image display with ASCII display interfaces.  Early experiments with
+chemistry students on a variety of tasks suggest that searching tasks are
+completed much faster with any electronic system than with paper, but
+that for reading all versions of the articles are roughly equivalent.
+
+Pamela ANDRE and Judith ZIDAR
+
+Text conversion is far more expensive and time-consuming than image
+capture alone.  NAL's experience with optical character recognition (OCR)
+will be related and compared with the experience of having text rekeyed. 
+What factors affect OCR accuracy?  How accurate does full text have to be
+in order to be useful?  How do different users react to imperfect text? 
+These are questions that will be explored.  For many, a service bureau
+may be a better solution than performing the work inhouse; this will also
+be discussed.
+
+SESSION VI
+
+Marybeth PETERS
+
+Copyright law protects creative works.  Protection granted by the law to
+authors and disseminators of works includes the right to do or authorize
+the following:  reproduce the work, prepare derivative works, distribute
+the work to the public, and publicly perform or display the work.  In
+addition, copyright owners of sound recordings and computer programs have
+the right to control rental of their works.  These rights are not
+unlimited; there are a number of exceptions and limitations.
+
+An electronic environment places strains on the copyright system. 
+Copyright owners want to control uses of their work and be paid for any
+use; the public wants quick and easy access at little or no cost.  The
+marketplace is working in this area.  Contracts, guidelines on electronic
+use, and collective licensing are in use and being refined.
+
+Issues concerning the ability to change works without detection are more
+difficult to deal with.  Questions concerning the integrity of the work
+and the status of the changed version under the copyright law are to be
+addressed.  These are public policy issues which require informed
+dialogue.
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                Appendix III:  DIRECTORY OF PARTICIPANTS
+                         
+
+PRESENTERS:
+
+     Pamela Q.J. Andre
+     Associate Director, Automation
+     National Agricultural Library
+     10301 Baltimore Boulevard
+     Beltsville, MD 20705-2351
+     Phone:  (301) 504-6813
+     Fax:  (301) 504-7473
+     E-mail:  INTERNET:  PANDRE@ASRR.ARSUSDA.GOV
+
+     Jean Baronas, Senior Manager
+     Department of Standards and Technology
+     Association for Information and Image Management (AIIM)
+     1100 Wayne Avenue, Suite 1100
+     Silver Spring, MD 20910
+     Phone:  (301) 587-8202
+     Fax:  (301) 587-2711
+     
+     Patricia Battin, President
+     The Commission on Preservation and Access
+     1400 16th Street, N.W.
+     Suite 740
+     Washington, DC 20036-2217
+     Phone:  (202) 939-3400
+     Fax:  (202) 939-3407
+     E-mail:  CPA@GWUVM.BITNET
+
+     Howard Besser
+     Centre Canadien d'Architecture
+     (Canadian Center for Architecture)
+     1920, rue Baile
+     Montreal, Quebec H3H 2S6
+     CANADA
+     Phone:  (514) 939-7001
+     Fax:  (514) 939-7020
+     E-mail:  howard@lis.pitt.edu
+
+     Edwin B. Brownrigg, Executive Director
+     Memex Research Institute
+     422 Bonita Avenue
+     Roseville, CA 95678
+     Phone:  (916) 784-2298
+     Fax:  (916) 786-7559
+     E-mail:  BITNET:  MEMEX@CALSTATE.2
+
+     Eric M. Calaluca, Vice President
+     Chadwyck-Healey, Inc.
+     1101 King Street
+     Alexandria, VA 223l4
+     Phone:  (800) 752-05l5
+     Fax:  (703) 683-7589
+
+     James Daly
+     4015 Deepwood Road
+     Baltimore, MD 21218-1404
+     Phone:  (410) 235-0763
+
+     Ricky Erway, Associate Coordinator
+     American Memory
+     Library of Congress
+     Phone:  (202) 707-6233
+     Fax:  (202) 707-3764
+
+     Carl Fleischhauer, Coordinator
+     American Memory
+     Library of Congress
+     Phone:  (202) 707-6233
+     Fax:  (202) 707-3764
+
+     Joanne Freeman
+     2000 Jefferson Park Avenue, No. 7
+     Charlottesville, VA  22903
+     
+     Prosser Gifford
+     Director for Scholarly Programs
+     Library of Congress
+     Phone:  (202) 707-1517
+     Fax:  (202) 707-9898
+     E-mail:  pgif@seq1.loc.gov
+
+     Jacqueline Hess, Director
+     National Demonstration Laboratory
+       for Interactive Information Technologies
+     Library of Congress
+     Phone:  (202) 707-4157
+     Fax:  (202) 707-2829
+     
+     Susan Hockey, Director
+     Center for Electronic Texts in the Humanities (CETH)
+     Alexander Library
+     Rutgers University
+     169 College Avenue
+     New Brunswick, NJ 08903
+     Phone:  (908) 932-1384
+     Fax:  (908) 932-1386
+     E-mail:  hockey@zodiac.rutgers.edu
+
+     William L. Hooton, Vice President
+     Business & Technical Development
+       Imaging & Information Systems Group
+     I-NET
+     6430 Rockledge Drive, Suite 400
+     Bethesda, MD 208l7
+     Phone:  (301) 564-6750
+     Fax:  (513) 564-6867
+
+     Anne R. Kenney, Associate Director
+     Department of Preservation and Conservation
+     701 Olin Library
+     Cornell University
+     Ithaca, NY 14853
+     Phone:  (607) 255-6875
+     Fax:  (607) 255-9346
+     E-mail:  LYDY@CORNELLA.BITNET
+
+     Ronald L. Larsen
+     Associate Director for Information Technology
+     University of Maryland at College Park
+     Room B0224, McKeldin Library
+     College Park, MD 20742-7011
+     Phone:  (301) 405-9194
+     Fax:  (301) 314-9865
+     E-mail:  rlarsen@libr.umd.edu
+
+     Maria L. Lebron, Managing Editor
+     The Online Journal of Current Clinical Trials
+     l333 H Street, N.W.
+     Washington, DC 20005
+     Phone:  (202) 326-6735
+     Fax:  (202) 842-2868
+     E-mail:  PUBSAAAS@GWUVM.BITNET
+
+     Michael Lesk, Executive Director
+     Computer Science Research
+     Bell Communications Research, Inc.
+     Rm 2A-385
+     445 South Street
+     Morristown, NJ 07960-l9l0     
+     Phone:  (201) 829-4070
+     Fax:  (201) 829-5981
+     E-mail:  lesk@bellcore.com (Internet) or bellcore!lesk (uucp)
+
+     Clifford A. Lynch
+     Director, Library Automation
+     University of California,
+        Office of the President
+     300 Lakeside Drive, 8th Floor
+     Oakland, CA 94612-3350
+     Phone:  (510) 987-0522
+     Fax:  (510) 839-3573
+     E-mail:  calur@uccmvsa
+
+     Avra Michelson
+     National Archives and Records Administration
+     NSZ Rm. 14N
+     7th & Pennsylvania, N.W.
+     Washington, D.C. 20408
+     Phone:  (202) 501-5544
+     Fax:  (202) 501-5533
+     E-mail:  tmi@cu.nih.gov
+     
+     Elli Mylonas, Managing Editor
+     Perseus Project
+     Department of the Classics
+     Harvard University
+     319 Boylston Hall
+     Cambridge, MA 02138
+     Phone:  (617) 495-9025, (617) 495-0456 (direct)
+     Fax:  (617) 496-8886
+     E-mail:  Elli@IKAROS.Harvard.EDU or elli@wjh12.harvard.edu
+
+     David Woodley Packard
+     Packard Humanities Institute
+     300 Second Street, Suite 201
+     Los Altos, CA 94002
+     Phone:  (415) 948-0150 (PHI)
+     Fax:  (415) 948-5793
+
+     Lynne K. Personius, Assistant Director
+     Cornell Information Technologies for
+      Scholarly Information Sources
+     502 Olin Library
+     Cornell University
+     Ithaca, NY 14853
+     Phone:  (607) 255-3393
+     Fax:  (607) 255-9346
+     E-mail:  JRN@CORNELLC.BITNET
+
+     Marybeth Peters
+     Policy Planning Adviser to the
+       Register of Copyrights
+     Library of Congress
+     Office LM 403
+     Phone:  (202) 707-8350
+     Fax:  (202) 707-8366
+
+     C. Michael Sperberg-McQueen
+     Editor, Text Encoding Initiative
+     Computer Center (M/C 135)
+     University of Illinois at Chicago
+     Box 6998
+     Chicago, IL 60680
+     Phone:  (312) 413-0317
+     Fax:  (312) 996-6834
+     E-mail:  u35395@uicvm..cc.uic.edu or u35395@uicvm.bitnet
+
+     George R. Thoma, Chief
+     Communications Engineering Branch
+     National Library of Medicine
+     8600 Rockville Pike
+     Bethesda, MD 20894
+     Phone:  (301) 496-4496
+     Fax:  (301) 402-0341
+     E-mail:  thoma@lhc.nlm.nih.gov
+
+     Dorothy Twohig, Editor
+     The Papers of George Washington
+     504 Alderman Library
+     University of Virginia
+     Charlottesville, VA 22903-2498
+     Phone:  (804) 924-0523
+     Fax:  (804) 924-4337
+
+     Susan H. Veccia, Team leader
+     American Memory, User Evaluation
+     Library of Congress
+     American Memory Evaluation Project
+     Phone:  (202) 707-9104
+     Fax:  (202) 707-3764
+     E-mail:  svec@seq1.loc.gov
+
+     Donald J. Waters, Head
+     Systems Office
+     Yale University Library
+     New Haven, CT 06520
+     Phone:  (203) 432-4889
+     Fax:  (203) 432-7231
+     E-mail:  DWATERS@YALEVM.BITNET or DWATERS@YALEVM.YCC.YALE.EDU
+
+     Stuart Weibel, Senior Research Scientist
+     OCLC
+     6565 Frantz Road
+     Dublin, OH 43017
+     Phone:  (614) 764-608l
+     Fax:  (614) 764-2344
+     E-mail:  INTERNET:  Stu@rsch.oclc.org
+
+     Robert G. Zich
+     Special Assistant to the Associate Librarian
+       for Special Projects
+     Library of Congress
+     Phone:  (202) 707-6233
+     Fax:  (202) 707-3764
+     E-mail:  rzic@seq1.loc.gov
+
+     Judith A. Zidar, Coordinator
+     National Agricultural Text Digitizing Program
+     Information Systems Division
+     National Agricultural Library
+     10301 Baltimore Boulevard
+     Beltsville, MD 20705-2351
+     Phone:  (301) 504-6813 or 504-5853
+     Fax:  (301) 504-7473
+     E-mail:  INTERNET:  JZIDAR@ASRR.ARSUSDA.GOV
+
+
+OBSERVERS:
+
+     Helen Aguera, Program Officer
+     Division of Research
+     Room 318
+     National Endowment for the Humanities
+     1100 Pennsylvania Avenue, N.W.
+     Washington, D.C. 20506
+     Phone:  (202) 786-0358
+     Fax:  (202) 786-0243
+
+     M. Ellyn Blanton, Deputy Director
+     National Demonstration Laboratory
+       for Interactive Information Technologies
+     Library of Congress
+     Phone:  (202) 707-4157
+     Fax:  (202) 707-2829
+
+     Charles M. Dollar
+     National Archives and Records Administration
+     NSZ Rm. 14N
+     7th & Pennsylvania, N.W.
+     Washington, DC 20408
+     Phone:  (202) 501-5532
+     Fax:  (202) 501-5512
+
+     Jeffrey Field, Deputy to the Director
+     Division of Preservation and Access
+     Room 802
+     National Endowment for the Humanities
+     1100 Pennsylvania Avenue, N.W.
+     Washington, DC 20506
+     Phone:  (202) 786-0570
+     Fax:  (202) 786-0243
+
+     Lorrin Garson
+     American Chemical Society
+     Research and Development Department
+     1155 16th Street, N.W.
+     Washington, D.C. 20036
+     Phone:  (202) 872-4541
+     Fax:  E-mail:  INTERNET:  LRG96@ACS.ORG
+
+     William M. Holmes, Jr.
+     National Archives and Records Administration
+     NSZ Rm. 14N
+     7th & Pennsylvania, N.W.
+     Washington, DC 20408
+     Phone:  (202) 501-5540
+     Fax:  (202) 501-5512
+     E-mail:  WHOLMES@AMERICAN.EDU
+
+     Sperling Martin
+     Information Resource Management
+     20030 Doolittle Street
+     Gaithersburg, MD 20879
+     Phone:  (301) 924-1803
+
+     Michael Neuman, Director
+     The Center for Text and Technology
+     Academic Computing Center
+     238 Reiss Science Building
+     Georgetown University
+     Washington, DC 20057
+     Phone:  (202) 687-6096
+     Fax:  (202) 687-6003
+     E-mail:  neuman@guvax.bitnet, neuman@guvax.georgetown.edu
+
+     Barbara Paulson, Program Officer
+     Division of Preservation and Access
+     Room 802
+     National Endowment for the Humanities
+     1100 Pennsylvania Avenue, N.W.
+     Washington, DC 20506
+     Phone:  (202) 786-0577
+     Fax:  (202) 786-0243
+     
+     Allen H. Renear
+     Senior Academic Planning Analyst
+     Brown University Computing and Information Services
+     115 Waterman Street
+     Campus Box 1885
+     Providence, R.I. 02912
+     Phone:  (401) 863-7312
+     Fax:  (401) 863-7329
+     E-mail:  BITNET:  Allen@BROWNVM or           
+     INTERNET:  Allen@brownvm.brown.edu
+
+     Susan M. Severtson, President
+     Chadwyck-Healey, Inc.
+     1101 King Street
+     Alexandria, VA 223l4
+     Phone:  (800) 752-05l5
+     Fax:  (703) 683-7589     
+
+     Frank Withrow
+     U.S. Department of Education
+     555 New Jersey Avenue, N.W.
+     Washington, DC 20208-5644
+     Phone:  (202) 219-2200
+     Fax:  (202) 219-2106
+
+
+(LC STAFF)
+     
+     Linda L. Arret
+     Machine-Readable Collections Reading Room LJ 132
+     (202) 707-1490
+
+     John D. Byrum, Jr.
+     Descriptive Cataloging Division LM 540
+     (202) 707-5194
+
+     Mary Jane Cavallo
+     Science and Technology Division LA 5210
+     (202) 707-1219
+
+     Susan Thea David
+     Congressional Research Service LM 226
+     (202) 707-7169
+
+     Robert Dierker
+     Senior Adviser for Multimedia Activities LM 608
+     (202) 707-6151
+
+     William W. Ellis
+     Associate Librarian for Science and Technology LM 611
+     (202) 707-6928
+
+     Ronald Gephart
+     Manuscript Division LM 102
+     (202) 707-5097
+
+     James Graber
+     Information Technology Services LM G51
+     (202) 707-9628
+
+     Rich Greenfield
+     American Memory LM 603
+     (202) 707-6233
+
+     Rebecca Guenther
+     Network Development LM 639
+     (202) 707-5092
+
+     Kenneth E. Harris
+     Preservation LM G21
+     (202) 707-5213
+
+     Staley Hitchcock
+     Manuscript Division LM 102
+     (202) 707-5383
+
+     Bohdan Kantor
+     Office of Special Projects LM 612
+     (202) 707-0180
+
+     John W. Kimball, Jr
+     Machine-Readable Collections Reading Room LJ 132
+     (202) 707-6560
+
+     Basil Manns
+     Information Technology Services LM G51
+     (202) 707-8345
+
+     Sally Hart McCallum
+     Network Development LM 639
+     (202) 707-6237
+
+     Dana J. Pratt
+     Publishing Office LM 602
+     (202) 707-6027
+
+     Jane Riefenhauser
+     American Memory LM 603
+     (202) 707-6233
+
+     William Z. Schenck
+     Collections Development LM 650
+     (202) 707-7706
+
+     Chandru J. Shahani
+     Preservation Research and Testing Office (R&T) LM G38
+     (202) 707-5607
+
+     William J. Sittig
+     Collections Development LM 650
+     (202) 707-7050
+
+     Paul Smith
+     Manuscript Division LM 102
+     (202) 707-5097
+
+     James L. Stevens
+     Information Technology Services LM G51
+     (202) 707-9688
+
+     Karen Stuart
+     Manuscript Division LM 130
+     (202) 707-5389
+
+     Tamara Swora
+     Preservation Microfilming Office LM G05
+     (202) 707-6293
+
+     Sarah Thomas
+     Collections Cataloging LM 642
+     (202) 707-5333
+
+
+                                   END
+      *************************************************************
+
+Note:  This file has been edited for use on computer networks.  This
+editing required the removal of diacritics, underlining, and fonts such
+as italics and bold.  
+
+kde 11/92
+
+[A few of the italics (when used for emphasis) were replaced by CAPS mh]

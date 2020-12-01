@@ -1,0 +1,1879 @@
+that was distributed by CXP, THOMA noticed that the dithered image of the
+IEEE test chart evinced some deterioration in the text.  He presented an
+extreme example of deterioration in the text in which compounded
+documents had to be set right by other techniques.  The technique
+illustrated by the present example was an image merge in which the page
+is scanned twice and the settings go from fixed threshold to the
+dithering matrix; the resulting images are merged to give the best
+results with each technique.
+
+THOMA illustrated how dithering is also used in nonphotographic or
+nonprint materials with an example of a grayish page from a medical text,
+which was reproduced to show all of the gray that appeared in the
+original.  Dithering provided a reproduction of all the gray in the
+original of another example from the same text.
+
+THOMA finally illustrated the problem of bordering, or page-edge,
+effects.  Books and bound volumes that are placed on a photocopy machine
+or a scanner produce page-edge effects that are undesirable for two
+reasons:  1) the aesthetics of the image; after all, if the image is to
+be preserved, one does not necessarily want to keep all of its
+deficiencies; 2) compression (with the bordering problem THOMA
+illustrated, the compression ratio deteriorated tremendously).  One way
+to eliminate this more serious problem is to have the operator at the
+point of scanning window the part of the image that is desirable and
+automatically turn all of the pixels out of that picture to white. 
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+FLEISCHHAUER * AM's experience with scanning bound materials * Dithering
+*
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Carl FLEISCHHAUER, coordinator, American Memory, Library of Congress,
+reported AM's experience with scanning bound materials, which he likened
+to the problems involved in using photocopying machines.  Very few
+devices in the industry offer book-edge scanning, let alone book cradles. 
+The problem may be unsolvable, FLEISCHHAUER said, because a large enough
+market does not exist for a preservation-quality scanner.  AM is using a
+Kurzweil scanner, which is a book-edge scanner now sold by Xerox.
+
+Devoting the remainder of his brief presentation to dithering,
+FLEISCHHAUER related AM's experience with a contractor who was using
+unsophisticated equipment and software to reduce moire patterns from
+printed halftones.  AM took the same image and used the dithering
+algorithm that forms part of the same Kurzweil Xerox scanner; it
+disguised moire patterns much more effectively.
+
+FLEISCHHAUER also observed that dithering produces a binary file which is
+useful for numerous purposes, for example, printing it on a laser printer
+without having to "re-halftone" it.  But it tends to defeat efficient
+compression, because the very thing that dithers to reduce moire patterns
+also tends to work against compression schemes.  AM thought the
+difference in image quality was worth it.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Relative use as a criterion for POB's selection of books to
+be converted into digital form *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the discussion period, WATERS noted that one of the criteria for
+selecting books among the 10,000 to be converted into digital image form
+would be how much relative use they would receive--a subject still
+requiring evaluation.  The challenge will be to understand whether
+coherent bodies of material will increase usage or whether POB should
+seek material that is being used, scan that, and make it more accessible. 
+POB might decide to digitize materials that are already heavily used, in
+order to make them more accessible and decrease wear on them.  Another
+approach would be to provide a large body of intellectually coherent
+material that may be used more in digital form than it is currently used
+in microfilm.  POB would seek material that was out of copyright.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BARONAS * Origin and scope of AIIM * Types of documents produced in
+AIIM's standards program * Domain of AIIM's standardization work * AIIM's
+structure * TC 171 and MS23 * Electronic image management standards *
+Categories of EIM standardization where AIIM standards are being
+developed *  
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Jean BARONAS, senior manager, Department of Standards and Technology,
+Association for Information and Image Management (AIIM), described the
+not-for-profit association and the national and international programs
+for standardization in which AIIM is active.
+
+Accredited for twenty-five years as the nation's standards development
+organization for document image management, AIIM began life in a library
+community developing microfilm standards.  Today the association
+maintains both its library and business-image management standardization
+activities--and has moved into electronic image-management
+standardization (EIM).
+
+BARONAS defined the program's scope.  AIIM deals with:  1) the
+terminology of standards and of the technology it uses; 2) methods of
+measurement for the systems, as well as quality; 3) methodologies for
+users to evaluate and measure quality; 4) the features of apparatus used
+to manage and edit images; and 5) the procedures used to manage images.
+
+BARONAS noted that three types of documents are produced in the AIIM
+standards program:  the first two, accredited by the American National
+Standards Institute (ANSI), are standards and standard recommended
+practices.  Recommended practices differ from standards in that they
+contain more tutorial information.  A technical report is not an ANSI
+standard.  Because AIIM's policies and procedures for developing
+standards are approved by ANSI, its standards are labeled ANSI/AIIM,
+followed by the number and title of the standard.
+
+BARONAS then illustrated the domain of AIIM's standardization work.  For
+example, AIIM is the administrator of the U.S. Technical Advisory Group
+(TAG) to the International Standards Organization's (ISO) technical
+committee, TC l7l Micrographics and Optical Memories for Document and
+Image Recording, Storage, and Use.  AIIM officially works through ANSI in
+the international standardization process.
+
+BARONAS described AIIM's structure, including its board of directors, its
+standards board of twelve individuals active in the image-management
+industry, its strategic planning and legal admissibility task forces, and
+its National Standards Council, which is comprised of the members of a
+number of organizations who vote on every AIIM standard before it is
+published.  BARONAS pointed out that AIIM's liaisons deal with numerous
+other standards developers, including the optical disk community, office
+and publishing systems, image-codes-and-character set committees, and the
+National Information Standards Organization (NISO).
+
+BARONAS illustrated the procedures of TC l7l, which covers all aspects of
+image management.  When AIIM's national program has conceptualized a new
+project, it is usually submitted to the international level, so that the
+member countries of TC l7l can simultaneously work on the development of
+the standard or the technical report.  BARONAS also illustrated a classic
+microfilm standard, MS23, which deals with numerous imaging concepts that
+apply to electronic imaging.  Originally developed in the l970s, revised
+in the l980s, and revised again in l991, this standard is scheduled for
+another revision.  MS23 is an active standard whereby users may propose
+new density ranges and new methods of evaluating film images in the
+standard's revision.
+
+BARONAS detailed several electronic image-management standards, for
+instance, ANSI/AIIM MS44, a quality-control guideline for scanning 8.5"
+by 11" black-and-white office documents.  This standard is used with the
+IEEE fax image--a continuous tone photographic image with gray scales,
+text, and several continuous tone pictures--and AIIM test target number
+2, a representative document used in office document management.
+
+BARONAS next outlined the four categories of EIM standardization in which
+AIIM standards are being developed:  transfer and retrieval, evaluation,
+optical disc and document scanning applications, and design and
+conversion of documents.  She detailed several of the main projects of
+each:  1) in the category of image transfer and retrieval, a bi-level
+image transfer format, ANSI/AIIM MS53, which is a proposed standard that
+describes a file header for image transfer between unlike systems when
+the images are compressed using G3 and G4 compression; 2) the category of
+image evaluation, which includes the AIIM-proposed TR26 tutorial on image
+resolution (this technical report will treat the differences and
+similarities between classical or photographic and electronic imaging);
+3) design and conversion, which includes a proposed technical report
+called "Forms Design Optimization for EIM" (this report considers how
+general-purpose business forms can be best designed so that scanning is
+optimized; reprographic characteristics such as type, rules, background,
+tint, and color will likewise be treated in the technical report); 4)
+disk and document scanning applications includes a project a) on planning
+platters and disk management, b) on generating an application profile for
+EIM when images are stored and distributed on CD-ROM, and c) on
+evaluating SCSI2, and how a common command set can be generated for SCSI2
+so that document scanners are more easily integrated.  (ANSI/AIIM MS53
+will also apply to compressed images.)
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BATTIN * The implications of standards for preservation * A major
+obstacle to successful cooperation * A hindrance to access in the digital
+environment * Standards a double-edged sword for those concerned with the
+preservation of the human record * Near-term prognosis for reliable
+archival standards * Preservation concerns for electronic media * Need
+for reconceptualizing our preservation principles * Standards in the real
+world and the politics of reproduction * Need to redefine the concept of
+archival and to begin to think in terms of life cycles * Cooperation and
+the La Guardia Eight * Concerns generated by discussions on the problems
+of preserving text and image * General principles to be adopted in a
+world without standards *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Patricia BATTIN, president, the Commission on Preservation and Access
+(CPA), addressed the implications of standards for preservation.  She
+listed several areas where the library profession and the analog world of
+the printed book had made enormous contributions over the past hundred
+years--for example, in bibliographic formats, binding standards, and, most
+important, in determining what constitutes longevity or archival quality.
+
+Although standards have lightened the preservation burden through the
+development of national and international collaborative programs,
+nevertheless, a pervasive mistrust of other people's standards remains a
+major obstacle to successful cooperation, BATTIN said.
+
+The zeal to achieve perfection, regardless of the cost, has hindered
+rather than facilitated access in some instances, and in the digital
+environment, where no real standards exist, has brought an ironically
+just reward.
+
+BATTIN argued that standards are a double-edged sword for those concerned
+with the preservation of the human record, that is, the provision of
+access to recorded knowledge in a multitude of media as far into the
+future as possible.  Standards are essential to facilitate
+interconnectivity and access, but, BATTIN said, as LYNCH pointed out
+yesterday, if set too soon they can hinder creativity, expansion of
+capability, and the broadening of access.  The characteristics of
+standards for digital imagery differ radically from those for analog
+imagery.  And the nature of digital technology implies continuing
+volatility and change.  To reiterate, precipitous standard-setting can
+inhibit creativity, but delayed standard-setting results in chaos.
+
+Since in BATTIN'S opinion the near-term prognosis for reliable archival
+standards, as defined by librarians in the analog world, is poor, two
+alternatives remain:  standing pat with the old technology, or
+reconceptualizing.
+
+Preservation concerns for electronic media fall into two general domains. 
+One is the continuing assurance of access to knowledge originally
+generated, stored, disseminated, and used in electronic form.  This
+domain contains several subdivisions, including 1) the closed,
+proprietary systems discussed the previous day, bundled information such
+as electronic journals and government agency records, and electronically
+produced or captured raw data; and 2) the application of digital
+technologies to the reformatting of materials originally published on a
+deteriorating analog medium such as acid paper or videotape.
+
+The preservation of electronic media requires a reconceptualizing of our
+preservation principles during a volatile, standardless transition which
+may last far longer than any of us envision today.  BATTIN urged the
+necessity of shifting focus from assessing, measuring, and setting
+standards for the permanence of the medium to the concept of managing
+continuing access to information stored on a variety of media and
+requiring a variety of ever-changing hardware and software for access--a
+fundamental shift for the library profession.
+
+BATTIN offered a primer on how to move forward with reasonable confidence
+in a world without standards.  Her comments fell roughly into two sections:
+1) standards in the real world and 2) the politics of reproduction.
+
+In regard to real-world standards, BATTIN argued the need to redefine the
+concept of archive and to begin to think in terms of life cycles.  In
+the past, the naive assumption that paper would last forever produced a
+cavalier attitude toward life cycles.  The transient nature of the
+electronic media has compelled people to recognize and accept upfront the
+concept of life cycles in place of permanency.
+
+Digital standards have to be developed and set in a cooperative context
+to ensure efficient exchange of information.  Moreover, during this
+transition period, greater flexibility concerning how concepts such as
+backup copies and archival copies in the CXP are defined is necessary,
+or the opportunity to move forward will be lost.
+
+In terms of cooperation, particularly in the university setting, BATTIN
+also argued the need to avoid going off in a hundred different
+directions.  The CPA has catalyzed a small group of universities called
+the La Guardia Eight--because La Guardia Airport is where meetings take
+place--Harvard, Yale, Cornell, Princeton, Penn State, Tennessee,
+Stanford, and USC, to develop a digital preservation consortium to look
+at all these issues and develop de facto standards as we move along,
+instead of waiting for something that is officially blessed.  Continuing
+to apply analog values and definitions of standards to the digital
+environment, BATTIN said, will effectively lead to forfeiture of the
+benefits of digital technology to research and scholarship.
+
+Under the second rubric, the politics of reproduction, BATTIN reiterated
+an oft-made argument concerning the electronic library, namely, that it
+is more difficult to transform than to create, and nowhere is that belief
+expressed more dramatically than in the conversion of brittle books to
+new media.  Preserving information published in electronic media involves
+making sure the information remains accessible and that digital
+information is not lost through reproduction.  In the analog world of
+photocopies and microfilm, the issue of fidelity to the original becomes
+paramount, as do issues of "Whose fidelity?" and "Whose original?"
+
+BATTIN elaborated these arguments with a few examples from a recent study
+conducted by the CPA on the problems of preserving text and image. 
+Discussions with scholars, librarians, and curators in a variety of
+disciplines dependent on text and image generated a variety of concerns,
+for example:  1) Copy what is, not what the technology is capable of. 
+This is very important for the history of ideas.  Scholars wish to know
+what the author saw and worked from.  And make available at the
+workstation the opportunity to erase all the defects and enhance the
+presentation.  2) The fidelity of reproduction--what is good enough, what
+can we afford, and the difference it makes--issues of subjective versus
+objective resolution.  3) The differences between primary and secondary
+users.  Restricting the definition of primary user to the one in whose
+discipline the material has been published runs one headlong into the
+reality that these printed books have had a host of other users from a
+host of other disciplines, who not only were looking for very different
+things, but who also shared values very different from those of the
+primary user.  4) The relationship of the standard of reproduction to new
+capabilities of scholarship--the browsing standard versus an archival
+standard.  How good must the archival standard be?  Can a distinction be
+drawn between potential users in setting standards for reproduction? 
+Archival storage, use copies, browsing copies--ought an attempt to set
+standards even be made?  5) Finally, costs.  How much are we prepared to
+pay to capture absolute fidelity?  What are the trade-offs between vastly
+enhanced access, degrees of fidelity, and costs?
+
+These standards, BATTIN concluded, serve to complicate further the
+reproduction process, and add to the long list of technical standards
+that are necessary to ensure widespread access.  Ways to articulate and
+analyze the costs that are attached to the different levels of standards
+must be found.
+
+Given the chaos concerning standards, which promises to linger for the
+foreseeable future, BATTIN urged adoption of the following general
+principles:
+
+     * Strive to understand the changing information requirements of
+     scholarly disciplines as more and more technology is integrated into
+     the process of research and scholarly communication in order to meet
+     future scholarly needs, not to build for the past.  Capture
+     deteriorating information at the highest affordable resolution, even
+     though the dissemination and display technologies will lag.
+
+     * Develop cooperative mechanisms to foster agreement on protocols
+     for document structure and other interchange mechanisms necessary
+     for widespread dissemination and use before official standards are
+     set.
+
+     * Accept that, in a transition period, de facto standards will have
+     to be developed.
+
+     * Capture information in a way that keeps all options open and
+     provides for total convertibility:  OCR, scanning of microfilm,
+     producing microfilm from scanned documents, etc.
+
+     * Work closely with the generators of information and the builders
+     of networks and databases to ensure that continuing accessibility is
+     a primary concern from the beginning.
+
+     * Piggyback on standards under development for the broad market, and
+     avoid library-specific standards; work with the vendors, in order to
+     take advantage of that which is being standardized for the rest of
+     the world.
+
+     * Concentrate efforts on managing permanence in the digital world,
+     rather than perfecting the longevity of a particular medium.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Additional comments on TIFF *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the brief discussion period that followed BATTIN's presentation,
+BARONAS explained that TIFF was not developed in collaboration with or
+under the auspices of AIIM.  TIFF is a company product, not a standard,
+is owned by two corporations, and is always changing.  BARONAS also
+observed that ANSI/AIIM MS53, a bi-level image file transfer format that
+allows unlike systems to exchange images, is compatible with TIFF as well
+as with DEC's architecture and IBM's MODCA/IOCA.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+HOOTON * Several questions to be considered in discussing text conversion
+*
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+HOOTON introduced the final topic, text conversion, by noting that it is
+becoming an increasingly important part of the imaging business.  Many
+people now realize that it enhances their system to be able to have more
+and more character data as part of their imaging system.  Re the issue of
+OCR versus rekeying, HOOTON posed several questions:  How does one get
+text into computer-readable form?  Does one use automated processes? 
+Does one attempt to eliminate the use of operators where possible? 
+Standards for accuracy, he said, are extremely important:  it makes a
+major difference in cost and time whether one sets as a standard 98.5
+percent acceptance or 99.5 percent.  He mentioned outsourcing as a
+possibility for converting text.  Finally, what one does with the image
+to prepare it for the recognition process is also important, he said,
+because such preparation changes how recognition is viewed, as well as
+facilitates recognition itself.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+LESK * Roles of participants in CORE * Data flow * The scanning process *
+The image interface * Results of experiments involving the use of
+electronic resources and traditional paper copies * Testing the issue of
+serendipity * Conclusions *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Michael LESK, executive director, Computer Science Research, Bell
+Communications Research, Inc. (Bellcore), discussed the Chemical Online
+Retrieval Experiment (CORE), a cooperative project involving Cornell
+University, OCLC, Bellcore, and the American Chemical Society (ACS).
+
+LESK spoke on 1) how the scanning was performed, including the unusual
+feature of page segmentation, and 2) the use made of the text and the
+image in experiments.
+
+Working with the chemistry journals (because ACS has been saving its
+typesetting tapes since the mid-1970s and thus has a significant back-run
+of the most important chemistry journals in the United States), CORE is
+attempting to create an automated chemical library.  Approximately a
+quarter of the pages by square inch are made up of images of
+quasi-pictorial material; dealing with the graphic components of the
+pages is extremely important.  LESK described the roles of participants
+in CORE:  1) ACS provides copyright permission, journals on paper,
+journals on microfilm, and some of the definitions of the files; 2) at
+Bellcore, LESK chiefly performs the data preparation, while Dennis Egan
+performs experiments on the users of chemical abstracts, and supplies the
+indexing and numerous magnetic tapes;  3) Cornell provides the site of the
+experiment; 4) OCLC develops retrieval software and other user interfaces.
+Various manufacturers and publishers have furnished other help.
+
+Concerning data flow, Bellcore receives microfilm and paper from ACS; the
+microfilm is scanned by outside vendors, while the paper is scanned
+inhouse on an Improvision scanner, twenty pages per minute at 300 dpi,
+which provides sufficient quality for all practical uses.  LESK would
+prefer to have more gray level, because one of the ACS journals prints on
+some colored pages, which creates a problem.
+
+Bellcore performs all this scanning, creates a page-image file, and also
+selects from the pages the graphics, to mix with the text file (which is
+discussed later in the Workshop).  The user is always searching the ASCII
+file, but she or he may see a display based on the ASCII or a display
+based on the images.
+
+LESK illustrated how the program performs page analysis, and the image
+interface.  (The user types several words, is presented with a list--
+usually of the titles of articles contained in an issue--that derives
+from the ASCII, clicks on an icon and receives an image that mirrors an
+ACS page.)  LESK also illustrated an alternative interface, based on text
+on the ASCII, the so-called SuperBook interface from Bellcore.
+
+LESK next presented the results of an experiment conducted by Dennis Egan
+and involving thirty-six students at Cornell, one third of them
+undergraduate chemistry majors, one third senior undergraduate chemistry
+majors, and one third graduate chemistry students.  A third of them
+received the paper journals, the traditional paper copies and chemical
+abstracts on paper.  A third received image displays of the pictures of
+the pages, and a third received the text display with pop-up graphics.
+
+The students were given several questions made up by some chemistry
+professors.  The questions fell into five classes, ranging from very easy
+to very difficult, and included questions designed to simulate browsing
+as well as a traditional information retrieval-type task.
+
+LESK furnished the following results.  In the straightforward question
+search--the question being, what is the phosphorus oxygen bond distance
+and hydroxy phosphate?--the students were told that they could take
+fifteen minutes and, then, if they wished, give up.  The students with
+paper took more than fifteen minutes on average, and yet most of them
+gave up.  The students with either electronic format, text or image,
+received good scores in reasonable time, hardly ever had to give up, and
+usually found the right answer.
+
+In the browsing study, the students were given a list of eight topics,
+told to imagine that an issue of the Journal of the American Chemical
+Society had just appeared on their desks, and were also told to flip
+through it and to find topics mentioned in the issue.  The average scores
+were about the same.  (The students were told to answer yes or no about
+whether or not particular topics appeared.)  The errors, however, were
+quite different.  The students with paper rarely said that something
+appeared when it had not.  But they often failed to find something
+actually mentioned in the issue.  The computer people found numerous
+things, but they also frequently said that a topic was mentioned when it
+was not.  (The reason, of course, was that they were performing word
+searches.  They were finding that words were mentioned and they were
+concluding that they had accomplished their task.)
+
+This question also contained a trick to test the issue of serendipity. 
+The students were given another list of eight topics and instructed,
+without taking a second look at the journal, to recall how many of this
+new list of eight topics were in this particular issue.  This was an
+attempt to see if they performed better at remembering what they were not
+looking for.  They all performed about the same, paper or electronics,
+about 62 percent accurate.  In short, LESK said, people were not very
+good when it came to serendipity, but they were no worse at it with
+computers than they were with paper.
+
+(LESK gave a parenthetical illustration of the learning curve of students
+who used SuperBook.)
+
+The students using the electronic systems started off worse than the ones
+using print, but by the third of the three sessions in the series had
+caught up to print.  As one might expect, electronics provide a much
+better means of finding what one wants to read; reading speeds, once the
+object of the search has been found, are about the same.
+
+Almost none of the students could perform the hard task--the analogous
+transformation.  (It would require the expertise of organic chemists to
+complete.)  But an interesting result was that the students using the text
+search performed terribly, while those using the image system did best.
+That the text search system is driven by text offers the explanation.
+Everything is focused on the text; to see the pictures, one must press
+on an icon.  Many students found the right article containing the answer
+to the question, but they did not click on the icon to bring up the right
+figure and see it.  They did not know that they had found the right place,
+and thus got it wrong.
+
+The short answer demonstrated by this experiment was that in the event
+one does not know what to read, one needs the electronic systems; the
+electronic systems hold no advantage at the moment if one knows what to
+read, but neither do they impose a penalty.
+
+LESK concluded by commenting that, on one hand, the image system was easy
+to use.  On the other hand, the text display system, which represented
+twenty man-years of work in programming and polishing, was not winning,
+because the text was not being read, just searched.  The much easier
+system is highly competitive as well as remarkably effective for the
+actual chemists.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ERWAY * Most challenging aspect of working on AM * Assumptions guiding
+AM's approach * Testing different types of service bureaus * AM's
+requirement for 99.95 percent accuracy * Requirements for text-coding *
+Additional factors influencing AM's approach to coding * Results of AM's
+experience with rekeying * Other problems in dealing with service bureaus
+* Quality control the most time-consuming aspect of contracting out
+conversion * Long-term outlook uncertain *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+To Ricky ERWAY, associate coordinator, American Memory, Library of
+Congress, the constant variety of conversion projects taking place
+simultaneously represented perhaps the most challenging aspect of working
+on AM.  Thus, the challenge was not to find a solution for text
+conversion but a tool kit of solutions to apply to LC's varied
+collections that need to be converted.  ERWAY limited her remarks to the
+process of converting text to machine-readable form, and the variety of
+LC's text collections, for example, bound volumes, microfilm, and
+handwritten manuscripts.
+
+Two assumptions have guided AM's approach, ERWAY said:  1) A desire not
+to perform the conversion inhouse.  Because of the variety of formats and
+types of texts, to capitalize the equipment and have the talents and
+skills to operate them at LC would be extremely expensive.  Further, the
+natural inclination to upgrade to newer and better equipment each year
+made it reasonable for AM to focus on what it did best and seek external
+conversion services.  Using service bureaus also allowed AM to have
+several types of operations take place at the same time.  2) AM was not a
+technology project, but an effort to improve access to library
+collections.  Hence, whether text was converted using OCR or rekeying
+mattered little to AM.  What mattered were cost and accuracy of results.
+
+AM considered different types of service bureaus and selected three to
+perform several small tests in order to acquire a sense of the field. 
+The sample collections with which they worked included handwritten
+correspondence, typewritten manuscripts from the 1940s, and
+eighteenth-century printed broadsides on microfilm.  On none of these
+samples was OCR performed; they were all rekeyed.  AM had several special
+requirements for the three service bureaus it had engaged.  For instance,
+any errors in the original text were to be retained.  Working from bound
+volumes or anything that could not be sheet-fed also constituted a factor
+eliminating companies that would have performed OCR.
+
+AM requires 99.95 percent accuracy, which, though it sounds high, often
+means one or two errors per page.  The initial batch of test samples
+contained several handwritten materials for which AM did not require
+text-coding.  The results, ERWAY reported, were in all cases fairly
+comparable:  for the most part, all three service bureaus achieved 99.95
+percent accuracy.  AM was satisfied with the work but surprised at the cost.
+
+As AM began converting whole collections, it retained the requirement for
+99.95 percent accuracy and added requirements for text-coding.  AM needed
+to begin performing work more than three years ago before LC requirements
+for SGML applications had been established.  Since AM's goal was simply
+to retain any of the intellectual content represented by the formatting
+of the document (which would be lost if one performed a straight ASCII
+conversion), AM used "SGML-like" codes.  These codes resembled SGML tags
+but were used without the benefit of document-type definitions.  AM found
+that many service bureaus were not yet SGML-proficient.
+
+Additional factors influencing the approach AM took with respect to
+coding included:  1) the inability of any known microcomputer-based
+user-retrieval software to take advantage of SGML coding; and 2) the
+multiple inconsistencies in format of the older documents, which
+confirmed AM in its desire not to attempt to force the different formats
+to conform to a single document-type definition (DTD) and thus create the
+need for a separate DTD for each document. 
+
+The five text collections that AM has converted or is in the process of
+converting include a collection of eighteenth-century broadsides, a
+collection of pamphlets, two typescript document collections, and a
+collection of 150 books.
+
+ERWAY next reviewed the results of AM's experience with rekeying, noting
+again that because the bulk of AM's materials are historical, the quality
+of the text often does not lend itself to OCR.  While non-English
+speakers are less likely to guess or elaborate or correct typos in the
+original text, they are also less able to infer what we would; they also
+are nearly incapable of converting handwritten text.  Another
+disadvantage of working with overseas keyers is that they are much less
+likely to telephone with questions, especially on the coding, with the
+result that they develop their own rules as they encounter new
+situations.
+
+Government contracting procedures and time frames posed a major challenge
+to performing the conversion.  Many service bureaus are not accustomed to
+retaining the image, even if they perform OCR.  Thus, questions of image
+format and storage media were somewhat novel to many of them.  ERWAY also
+remarked other problems in dealing with service bureaus, for example,
+their inability to perform text conversion from the kind of microfilm
+that LC uses for preservation purposes.
+
+But quality control, in ERWAY's experience, was the most time-consuming
+aspect of contracting out conversion.  AM has been attempting to perform
+a 10-percent quality review, looking at either every tenth document or
+every tenth page to make certain that the service bureaus are maintaining
+99.95 percent accuracy.  But even if they are complying with the
+requirement for accuracy, finding errors produces a desire to correct
+them and, in turn, to clean up the whole collection, which defeats the
+purpose to some extent.  Even a double entry requires a
+character-by-character comparison to the original to meet the accuracy
+requirement.  LC is not accustomed to publish imperfect texts, which
+makes attempting to deal with the industry standard an emotionally
+fraught issue for AM.  As was mentioned in the previous day's discussion,
+going from 99.95 to 99.99 percent accuracy usually doubles costs and
+means a third keying or another complete run-through of the text.
+
+Although AM has learned much from its experiences with various collections
+and various service bureaus, ERWAY concluded pessimistically that no
+breakthrough has been achieved.   Incremental improvements have occurred
+in some of the OCR technology, some of the processes, and some of the
+standards acceptances, which, though they may lead to somewhat lower costs,
+do not offer much encouragement to many people who are anxiously awaiting
+the day that the entire contents of LC are available on-line.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ZIDAR * Several answers to why one attempts to perform full-text
+conversion * Per page cost of performing OCR * Typical problems
+encountered during editing * Editing poor copy OCR vs. rekeying *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Judith ZIDAR, coordinator, National Agricultural Text Digitizing Program
+(NATDP), National Agricultural Library (NAL), offered several answers to
+the question of why one attempts to perform full-text conversion:  1)
+Text in an image can be read by a human but not by a computer, so of
+course it is not searchable and there is not much one can do with it.  2)
+Some material simply requires word-level access.  For instance, the legal
+profession insists on full-text access to its material; with taxonomic or
+geographic material, which entails numerous names, one virtually requires
+word-level access.  3) Full text permits rapid browsing and searching,
+something that cannot be achieved in an image with today's technology. 
+4) Text stored as ASCII and delivered in ASCII is standardized and highly
+portable.  5) People just want full-text searching, even those who do not
+know how to do it.  NAL, for the most part, is performing OCR at an
+actual cost per average-size page of approximately $7.  NAL scans the
+page to create the electronic image and passes it through the OCR device.
+
+ZIDAR next rehearsed several typical problems encountered during editing. 
+Praising the celerity of her student workers, ZIDAR observed that editing
+requires approximately five to ten minutes per page, assuming that there
+are no large tables to audit.  Confusion among the three characters I, 1, 
+and l, constitutes perhaps the most common problem encountered.  Zeroes
+and  O's also are  frequently confused.  Double M's create a particular
+problem, even on clean pages.  They are so wide in most fonts that they
+touch, and the system simply cannot tell where one letter ends and the
+other begins.  Complex page formats occasionally fail to columnate
+properly, which entails rescanning as though one were working with a
+single column, entering the ASCII, and decolumnating for better
+searching.  With proportionally spaced text, OCR can have difficulty
+discerning what is a space and what are merely spaces between letters, as
+opposed to spaces between words, and therefore will merge text or break
+up words where it should not.
+
+ZIDAR said that it can often take longer to edit a poor-copy OCR than to
+key it from scratch.  NAL has also experimented with partial editing of
+text, whereby project workers go into and clean up the format, removing
+stray characters but not running a spell-check.  NAL corrects typos in
+the title and authors' names, which provides a foothold for searching and
+browsing.  Even extremely poor-quality OCR (e.g., 60-percent accuracy)
+can still be searched, because numerous words are correct, while the
+important words are probably repeated often enough that they are likely
+to be found correct somewhere.  Librarians, however, cannot tolerate this
+situation, though end users seem more willing to use this text for
+searching, provided that NAL indicates that it is unedited.  ZIDAR
+concluded that rekeying of text may be the best route to take, in spite
+of numerous problems with quality control and cost.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Modifying an image before performing OCR * NAL's costs per
+page *AM's costs per page and experience with Federal Prison Industries *
+Elements comprising NATDP's costs per page * OCR and structured markup *
+Distinction between the structure of a document and its representation
+when put on the screen or printed *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+HOOTON prefaced the lengthy discussion that followed with several
+comments about modifying an image before one reaches the point of
+performing OCR.  For example, in regard to an application containing a
+significant amount of redundant data, such as form-type data, numerous
+companies today are working on various kinds of form renewal, prior to
+going through a recognition process, by using dropout colors.  Thus,
+acquiring access to form design or using electronic means are worth
+considering.  HOOTON also noted that conversion usually makes or breaks
+one's imaging system.  It is extremely important, extremely costly in
+terms of either capital investment or service, and determines the quality
+of the remainder of one's system, because it determines the character of
+the raw material used by the system.
+
+Concerning the four projects undertaken by NAL, two inside and two
+performed by outside contractors, ZIDAR revealed that an in-house service
+bureau executed the first at a cost between $8 and $10 per page for
+everything, including building of the database.  The project undertaken
+by the Consultative Group on International Agricultural Research (CGIAR)
+cost approximately $10 per page for the conversion, plus some expenses
+for the software and building of the database.  The Acid Rain Project--a
+two-disk set produced by the University of Vermont, consisting of
+Canadian publications on acid rain--cost $6.70 per page for everything,
+including keying of the text, which was double keyed, scanning of the
+images, and building of the database.  The in-house project offered
+considerable ease of convenience and greater control of the process.  On
+the other hand, the service bureaus know their job and perform it
+expeditiously, because they have more people.
+
+As a useful comparison, ERWAY revealed AM's costs as follows:  $0.75
+cents to $0.85 cents per thousand characters, with an average page
+containing 2,700 characters.  Requirements for coding and imaging
+increase the costs.  Thus, conversion of the text, including the coding,
+costs approximately $3 per page.  (This figure does not include the
+imaging and database-building included in the NAL costs.)  AM also
+enjoyed a happy experience with Federal Prison Industries, which
+precluded the necessity of going through the request-for-proposal process
+to award a contract, because it is another government agency.  The
+prisoners performed AM's rekeying just as well as other service bureaus
+and proved handy as well.  AM shipped them the books, which they would
+photocopy on a book-edge scanner.  They would perform the markup on
+photocopies, return the books as soon as they were done with them,
+perform the keying, and return the material to AM on WORM disks.
+
+ZIDAR detailed the elements that constitute the previously noted cost of
+approximately $7 per page.  Most significant is the editing, correction
+of errors, and spell-checkings, which though they may sound easy to
+perform require, in fact, a great deal of time.  Reformatting text also
+takes a while, but a significant amount of NAL's expenses are for equipment,
+which was extremely expensive when purchased because it was one of the few
+systems on the market.  The costs of equipment are being amortized over
+five years but are still quite high, nearly $2,000 per month.
+
+HOCKEY raised a general question concerning OCR and the amount of editing
+required (substantial in her experience) to generate the kind of
+structured markup necessary for manipulating the text on the computer or
+loading it into any retrieval system.  She wondered if the speakers could
+extend the previous question about the cost-benefit of adding or exerting
+structured markup.  ERWAY noted that several OCR systems retain italics,
+bolding, and other spatial formatting.  While the material may not be in
+the format desired, these systems possess the ability to remove the
+original materials quickly from the hands of the people performing the
+conversion, as well as to retain that information so that users can work
+with it.  HOCKEY rejoined that the current thinking on markup is that one
+should not say that something is italic or bold so much as why it is that
+way.  To be sure, one needs to know that something was italicized, but
+how can one get from one to the other?  One can map from the structure to
+the typographic representation.
+
+FLEISCHHAUER suggested that, given the 100 million items the Library
+holds, it may not be possible for LC to do more than report that a thing
+was in italics as opposed to why it was italics, although that may be
+desirable in some contexts.  Promising to talk a bit during the afternoon
+session about several experiments OCLC performed on automatic recognition
+of document elements, and which they hoped to extend, WEIBEL said that in
+fact one can recognize the major elements of a document with a fairly
+high degree of reliability, at least as good as OCR.  STEVENS drew a
+useful distinction between standard, generalized markup (i.e., defining
+for a document-type definition the structure of the document), and what
+he termed a style sheet, which had to do with italics, bolding, and other
+forms of emphasis.  Thus, two different components are at work, one being
+the structure of the document itself (its logic), and the other being its
+representation when it is put on the screen or printed.
+
+                                 ******
+
+SESSION V.  APPROACHES TO PREPARING ELECTRONIC TEXTS
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+HOCKEY * Text in ASCII and the representation of electronic text versus
+an image * The need to look at ways of using markup to assist retrieval *
+The need for an encoding format that will be reusable and multifunctional
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Susan HOCKEY, director, Center for Electronic Texts in the Humanities
+(CETH), Rutgers and Princeton Universities, announced that one talk
+(WEIBEL's) was moved into this session from the morning and that David
+Packard was unable to attend.  The session would attempt to focus more on
+what one can do with a text in ASCII and the representation of electronic
+text rather than just an image, what one can do with a computer that
+cannot be done with a book or an image.  It would be argued that one can
+do much more than just read a text, and from that starting point one can
+use markup and methods of preparing the text to take full advantage of
+the capability of the computer.  That would lead to a discussion of what
+the European Community calls REUSABILITY, what may better be termed
+DURABILITY, that is, how to prepare or make a text that will last a long
+time and that can be used for as many applications as possible, which
+would lead to issues of improving intellectual access.
+
+HOCKEY urged the need to look at ways of using markup to facilitate retrieval,
+not just for referencing or to help locate an item that is retrieved, but also to put markup tags in
+a text to help retrieve the thing sought either with linguistic tagging or
+interpretation.  HOCKEY also argued that little advancement had occurred in
+the software tools currently available for retrieving and searching text.
+She pressed the desideratum of going beyond Boolean searches and performing
+more sophisticated searching, which the insertion of more markup in the text
+would facilitate.  Thinking about electronic texts as opposed to images means
+considering material that will never appear in print form, or print will not
+be its primary form, that is, material which only appears in electronic form.
+HOCKEY alluded to the history and the need for markup and tagging and
+electronic text, which was developed through the use of computers in the
+humanities; as MICHELSON had observed, Father Busa had started in 1949
+to prepare the first-ever text on the computer.
+
+HOCKEY remarked several large projects, particularly in Europe, for the
+compilation of dictionaries, language studies, and language analysis, in
+which people have built up archives of text and have begun to recognize
+the need for an encoding format that will be reusable and multifunctional,
+that can be used not just to print the text, which may be assumed to be a
+byproduct of what one wants to do, but to structure it inside the computer
+so that it can be searched, built into a Hypertext system, etc.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+WEIBEL * OCLC's approach to preparing electronic text:  retroconversion,
+keying of texts, more automated ways of developing data * Project ADAPT
+and the CORE Project * Intelligent character recognition does not exist *
+Advantages of SGML * Data should be free of procedural markup;
+descriptive markup strongly advocated * OCLC's interface illustrated *
+Storage requirements and costs for putting a lot of information on line *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stuart WEIBEL, senior research scientist, Online Computer Library Center,
+Inc. (OCLC), described OCLC's approach to preparing electronic text.  He
+argued that the electronic world into which we are moving must
+accommodate not only the future but the past as well, and to some degree
+even the present.  Thus, starting out at one end with retroconversion and
+keying of texts, one would like to move toward much more automated ways
+of developing data.
+
+For example, Project ADAPT had to do with automatically converting
+document images into a structured document database with OCR text as
+indexing and also a little bit of automatic formatting and tagging of
+that text.  The CORE project hosted by Cornell University, Bellcore,
+OCLC, the American Chemical Society, and Chemical Abstracts, constitutes
+WEIBEL's principal concern at the moment.  This project is an example of
+converting text for which one already has a machine-readable version into
+a format more suitable for electronic delivery and database searching. 
+(Since Michael LESK had previously described CORE, WEIBEL would say
+little concerning it.)  Borrowing a chemical phrase, de novo synthesis,
+WEIBEL cited the Online Journal of Current Clinical Trials as an example
+of de novo electronic publishing, that is, a form in which the primary
+form of the information is electronic.
+
+Project ADAPT, then, which OCLC completed a couple of years ago and in
+fact is about to resume, is a model in which one takes page images either
+in paper or microfilm and converts them automatically to a searchable
+electronic database, either on-line or local.  The operating assumption
+is that accepting some blemishes in the data, especially for
+retroconversion of materials, will make it possible to accomplish more. 
+Not enough money is available to support perfect conversion.
+
+WEIBEL related several steps taken to perform image preprocessing
+(processing on the image before performing optical character
+recognition), as well as image postprocessing.  He denied the existence
+of intelligent character recognition and asserted that what is wanted is
+page recognition, which is a long way off.  OCLC has experimented with
+merging of multiple optical character recognition systems that will
+reduce errors from an unacceptable rate of 5 characters out of every
+l,000 to an unacceptable rate of 2 characters out of every l,000, but it
+is not good enough.  It will never be perfect.
+
+Concerning the CORE Project, WEIBEL observed that Bellcore is taking the
+topography files, extracting the page images, and converting those
+topography files to SGML markup.  LESK hands that data off to OCLC, which
+builds that data into a Newton database, the same system that underlies
+the on-line system in virtually all of the reference products at OCLC. 
+The long-term goal is to make the systems interoperable so that not just
+Bellcore's system and OCLC's system can access this data, but other
+systems can as well, and the key to that is the Z39.50 common command
+language and the full-text extension.  Z39.50 is fine for MARC records,
+but is not enough to do it for full text (that is, make full texts
+interoperable).
+
+WEIBEL next outlined the critical role of SGML for a variety of purposes,
+for example, as noted by HOCKEY, in the world of extremely large
+databases, using highly structured data to perform field searches. 
+WEIBEL argued that by building the structure of the data in (i.e., the
+structure of the data originally on a printed page), it becomes easy to
+look at a journal article even if one cannot read the characters and know
+where the title or author is, or what the sections of that document would be.
+OCLC wants to make that structure explicit in the database, because it will
+be important for retrieval purposes.
+
+The second big advantage of SGML is that it gives one the ability to
+build structure into the database that can be used for display purposes
+without contaminating the data with instructions about how to format
+things.  The distinction lies between procedural markup, which tells one
+where to put dots on the page, and descriptive markup, which describes
+the elements of a document.
+
+WEIBEL believes that there should be no procedural markup in the data at
+all, that the data should be completely unsullied by information about
+italics or boldness.  That should be left up to the display device,
+whether that display device is a page printer or a screen display device. 
+By keeping one's database free of that kind of contamination, one can
+make decisions down the road, for example, reorganize the data in ways
+that are not cramped by built-in notions of what should be italic and
+what should be bold.  WEIBEL strongly advocated descriptive markup.  As
+an example, he illustrated the index structure in the CORE data.  With
+subsequent illustrated examples of markup, WEIBEL acknowledged the common
+complaint that SGML is hard to read in its native form, although markup
+decreases considerably once one gets into the body.  Without the markup,
+however, one would not have the structure in the data.  One can pass
+markup through a LaTeX processor and convert it relatively easily to a
+printed version of the document.
+
+WEIBEL next illustrated an extremely cluttered screen dump of OCLC's
+system, in order to show as much as possible the inherent capability on
+the screen.  (He noted parenthetically that he had become a supporter of
+X-Windows as a result of the progress of the CORE Project.)  WEIBEL also
+illustrated the two major parts of the interface:  l) a control box that
+allows one to generate lists of items, which resembles a small table of
+contents based on key words one wishes to search, and 2) a document
+viewer, which is a separate process in and of itself.  He demonstrated
+how to follow links through the electronic database simply by selecting
+the appropriate button and bringing them up.  He also noted problems that
+remain to be accommodated in the interface (e.g., as pointed out by LESK,
+what happens when users do not click on the icon for the figure).
+
+Given the constraints of time, WEIBEL omitted a large number of ancillary
+items in order to say a few words concerning storage requirements and
+what will be required to put a lot of things on line.  Since it is
+extremely expensive to reconvert all of this data, especially if it is
+just in paper form (and even if it is in electronic form in typesetting
+tapes), he advocated building journals electronically from the start.  In
+that case, if one only has text graphics and indexing (which is all that
+one needs with de novo electronic publishing, because there is no need to
+go back and look at bit-maps of pages), one can get 10,000 journals of
+full text, or almost 6 million pages per year.  These pages can be put in
+approximately 135 gigabytes of storage, which is not all that much,
+WEIBEL said.  For twenty years, something less than three terabytes would
+be required.  WEIBEL calculated the costs of storing this information as
+follows:  If a gigabyte costs approximately $1,000, then a terabyte costs
+approximately $1 million to buy in terms of hardware.  One also needs a
+building to put it in and a staff like OCLC to handle that information. 
+So, to support a terabyte, multiply by five, which gives $5 million per
+year for a supported terabyte of data.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Tapes saved by ACS are the typography files originally
+supporting publication of the journal * Cost of building tagged text into
+the database *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the question-and-answer period that followed WEIBEL's
+presentation, these clarifications emerged.  The tapes saved by the
+American Chemical Society are the typography files that originally
+supported the publication of the journal.  Although they are not tagged
+in SGML, they are tagged in very fine detail.  Every single sentence is
+marked, all the registry numbers, all the publications issues, dates, and
+volumes.  No cost figures on tagging material on a per-megabyte basis
+were available.  Because ACS's typesetting system runs from tagged text,
+there is no extra cost per article.  It was unknown what it costs ACS to
+keyboard the tagged text rather than just keyboard the text in the
+cheapest process.  In other words, since one intends to publish things
+and will need to build tagged text into a typography system in any case,
+if one does that in such a way that it can drive not only typography but
+an electronic system (which is what ACS intends to do--move to SGML
+publishing), the marginal cost is zero.  The marginal cost represents the
+cost of building tagged text into the database, which is small.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SPERBERG-McQUEEN * Distinction between texts and computers * Implications
+of recognizing that all representation is encoding * Dealing with
+complicated representations of text entails the need for a grammar of
+documents * Variety of forms of formal grammars * Text as a bit-mapped
+image does not represent a serious attempt to represent text in
+electronic form * SGML, the TEI, document-type declarations, and the
+reusability and longevity of data * TEI conformance explicitly allows
+extension or modification of the TEI tag set * Administrative background
+of the TEI * Several design goals for the TEI tag set * An absolutely
+fixed requirement of the TEI Guidelines * Challenges the TEI has
+attempted to face * Good texts not beyond economic feasibility * The
+issue of reproducibility or processability * The issue of mages as
+simulacra for the text redux * One's model of text determines what one's
+software can do with a text and has economic consequences *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Prior to speaking about SGML and markup, Michael SPERBERG-McQUEEN, editor,
+Text Encoding Initiative (TEI), University of Illinois-Chicago, first drew
+a distinction between texts and computers:  Texts are abstract cultural
+and linguistic objects while computers are complicated physical devices,
+he said.  Abstract objects cannot be placed inside physical devices; with
+computers one can only represent text and act upon those representations.
+
+The recognition that all representation is encoding, SPERBERG-McQUEEN
+argued, leads to the recognition of two things:  1) The topic description
+for this session is slightly misleading, because there can be no discussion
+of pros and cons of text-coding unless what one means is pros and cons of
+working with text with computers.  2) No text can be represented in a
+computer without some sort of encoding; images are one way of encoding text,
+ASCII is another, SGML yet another.  There is no encoding without some
+information loss, that is, there is no perfect reproduction of a text that
+allows one to do away with the original.  Thus, the question becomes,
+What is the most useful representation of text for a serious work?
+This depends on what kind of serious work one is talking about.
+
+The projects demonstrated the previous day all involved highly complex
+information and fairly complex manipulation of the textual material.
+In order to use that complicated information, one has to calculate it
+slowly or manually and store the result.  It needs to be stored, therefore,
+as part of one's representation of the text.  Thus, one needs to store the
+structure in the text.  To deal with complicated representations of text,
+one needs somehow to control the complexity of the representation of a text;
+that means one needs a way of finding out whether a document and an
+electronic representation of a document is legal or not; and that
+means one needs a grammar of documents.
+
+SPERBERG-McQUEEN discussed the variety of forms of formal grammars,
+implicit and explicit, as applied to text, and their capabilities.  He
+argued that these grammars correspond to different models of text that
+different developers have.  For example, one implicit model of the text
+is that there is no internal structure, but just one thing after another,
+a few characters and then perhaps a start-title command, and then a few
+more characters and an end-title command.  SPERBERG-McQUEEN also
+distinguished several kinds of text that have a sort of hierarchical
+structure that is not very well defined, which, typically, corresponds
+to grammars that are not very well defined, as well as hierarchies that
+are very well defined (e.g., the Thesaurus Linguae Graecae) and extremely
+complicated things such as SGML, which handle strictly hierarchical data
+very nicely.
+
+SPERBERG-McQUEEN conceded that one other model not illustrated on his two
+displays was the model of text as a bit-mapped image, an image of a page,
+and confessed to having been converted to a limited extent by the
+Workshop to the view that electronic images constitute a promising,
+probably superior alternative to microfilming.  But he was not convinced
+that electronic images represent a serious attempt to represent text in
+electronic form.  Many of their problems stem from the fact that they are
+not direct attempts to represent the text but attempts to represent the
+page, thus making them representations of representations.
+
+In this situation of increasingly complicated textual information and the
+need to control that complexity in a useful way (which begs the question
+of the need for good textual grammars), one has the introduction of SGML. 
+With SGML, one can develop specific document-type declarations
+for specific text types or, as with the TEI, attempts to generate
+general document-type declarations that can handle all sorts of text.
+The TEI is an attempt to develop formats for text representation that
+will ensure the kind of reusability and longevity of data discussed earlier.
+It offers a way to stay alive in the state of permanent technological
+revolution.
+
+It has been a continuing challenge in the TEI to create document grammars
+that do some work in controlling the complexity of the textual object but
+also allowing one to represent the real text that one will find. 
+Fundamental to the notion of the TEI is that TEI conformance allows one
+the ability to extend or modify the TEI tag set so that it fits the text
+that one is attempting to represent.
+
+SPERBERG-McQUEEN next outlined the administrative background of the TEI. 
+The TEI is an international project to develop and disseminate guidelines
+for the encoding and interchange of machine-readable text.  It is
+sponsored by the Association for Computers in the Humanities, the
+Association for Computational Linguistics, and the Association for
+Literary and Linguistic Computing.  Representatives of numerous other
+professional societies sit on its advisory board.  The TEI has a number
+of affiliated projects that have provided assistance by testing drafts of
+the guidelines.
+
+Among the design goals for the TEI tag set, the scheme first of all must
+meet the needs of research, because the TEI came out of the research
+community, which did not feel adequately served by existing tag sets. 
+The tag set must be extensive as well as compatible with existing and
+emerging standards.  In 1990, version 1.0 of the Guidelines was released
+(SPERBERG-McQUEEN illustrated their contents).
+
+SPERBERG-McQUEEN noted that one problem besetting electronic text has
+been the lack of adequate internal or external documentation for many
+existing electronic texts.  The TEI guidelines as currently formulated
+contain few fixed requirements, but one of them is this:  There must
+always be a document header, an in-file SGML tag that provides
+1) a bibliographic description of the electronic object one is talking
+about (that is, who included it, when, what for, and under which title);
+and 2) the copy text from which it was derived, if any.  If there was
+no copy text or if the copy text is unknown, then one states as much.
+Version 2.0 of the Guidelines was scheduled to be completed in fall 1992
+and a revised third version is to be presented to the TEI advisory board
+for its endorsement this coming winter.  The TEI itself exists to provide
+a markup language, not a marked-up text.
+
+Among the challenges the TEI has attempted to face is the need for a
+markup language that will work for existing projects, that is, handle the
+level of markup that people are using now to tag only chapter, section,
+and paragraph divisions and not much else.  At the same time, such a
+language also will be able to scale up gracefully to handle the highly
+detailed markup which many people foresee as the future destination of
+much electronic text, and which is not the future destination but the
+present home of numerous electronic texts in specialized areas.
+
+SPERBERG-McQUEEN dismissed the lowest-common-denominator approach as
+unable to support the kind of applications that draw people who have
+never been in the public library regularly before, and make them come
+back.  He advocated more interesting text and more intelligent text. 
+Asserting that it is not beyond economic feasibility to have good texts,
+SPERBERG-McQUEEN noted that the TEI Guidelines listing 200-odd tags
+contains tags that one is expected to enter every time the relevant
+textual feature occurs.  It contains all the tags that people need now,
+and it is not expected that everyone will tag things in the same way.
+
+The question of how people will tag the text is in large part a function
+of their reaction to what SPERBERG-McQUEEN termed the issue of
+reproducibility.  What one needs to be able to reproduce are the things
+one wants to work with.  Perhaps a more useful concept than that of
+reproducibility or recoverability is that of processability, that is,
+what can one get from an electronic text without reading it again
+in the original.  He illustrated this contention with a page from
+Jan Comenius's bilingual Introduction to Latin.
+
+SPERBERG-McQUEEN returned at length to the issue of images as simulacra
+for the text, in order to reiterate his belief that in the long run more
+than images of pages of particular editions of the text are needed,
+because just as second-generation photocopies and second-generation
+microfilm degenerate, so second-generation representations tend to
+degenerate, and one tends to overstress some relatively trivial aspects
+of the text such as its layout on the page, which is not always
+significant, despite what the text critics might say, and slight other
+pieces of information such as the very important lexical ties between the
+English and Latin versions of Comenius's bilingual text, for example. 
+Moreover, in many crucial respects it is easy to fool oneself concerning
+what a scanned image of the text will accomplish.  For example, in order
+to study the transmission of texts, information concerning the text
+carrier is necessary, which scanned images simply do not always handle. 
+Further, even the high-quality materials being produced at Cornell use
+much of the information that one would need if studying those books as
+physical objects.  It is a choice that has been made.  It is an arguably
+justifiable choice, but one does not know what color those pen strokes in
+the margin are or whether there was a stain on the page, because it has
+been filtered out.  One does not know whether there were rips in the page
+because they do not show up, and on a couple of the marginal marks one
+loses half of the mark because the pen is very light and the scanner
+failed to pick it up, and so what is clearly a checkmark in the margin of
+the original becomes a little scoop in the margin of the facsimile. 
+Standard problems for facsimile editions, not new to electronics, but
+also true of light-lens photography, and are remarked here because it is
+important that we not fool ourselves that even if we produce a very nice
+image of this page with good contrast, we are not replacing the
+manuscript any more than microfilm has replaced the manuscript.
+
+The TEI comes from the research community, where its first allegiance
+lies, but it is not just an academic exercise.  It has relevance far
+beyond those who spend all of their time studying text, because one's
+model of text determines what one's software can do with a text.  Good
+models lead to good software.  Bad models lead to bad software.  That has
+economic consequences, and it is these economic consequences that have
+led the European Community to help support the TEI, and that will lead,
+SPERBERG-McQUEEN hoped, some software vendors to realize that if they
+provide software with a better model of the text they can make a killing.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Implications of different DTDs and tag sets * ODA versus SGML *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the discussion that followed, several additional points were made. 
+Neither AAP (i.e., Association of American Publishers) nor CALS (i.e.,
+Computer-aided Acquisition and Logistics Support) has a document-type
+definition for ancient Greek drama, although the TEI will be able to
+handle that.  Given this state of affairs and assuming that the
+technical-journal producers and the commercial vendors decide to use the
+other two types, then an institution like the Library of Congress, which
+might receive all of their publications, would have to be able to handle
+three different types of document definitions and tag sets and be able to
+distinguish among them.
+
+Office Document Architecture (ODA) has some advantages that flow from its
+tight focus on office documents and clear directions for implementation. 
+Much of the ODA standard is easier to read and clearer at first reading
+than the SGML standard, which is extremely general.  What that means is
+that if one wants to use graphics in TIFF and ODA, one is stuck, because
+ODA defines graphics formats while TIFF does not, whereas SGML says the
+world is not waiting for this work group to create another graphics format.
+What is needed is an ability to use whatever graphics format one wants.
+
+The TEI provides a socket that allows one to connect the SGML document to
+the graphics.  The notation that the graphics are in is clearly a choice
+that one needs to make based on her or his environment, and that is one
+advantage.  SGML is less megalomaniacal in attempting to define formats
+for all kinds of information, though more megalomaniacal in attempting to
+cover all sorts of documents.  The other advantage is that the model of
+text represented by SGML is simply an order of magnitude richer and more
+flexible than the model of text offered by ODA.  Both offer hierarchical
+structures, but SGML recognizes that the hierarchical model of the text
+that one is looking at may not have been in the minds of the designers,
+whereas ODA does not.
+
+ODA is not really aiming for the kind of document that the TEI wants to
+encompass.  The TEI can handle the kind of material ODA has, as well as a
+significantly broader range of material.  ODA seems to be very much
+focused on office documents, which is what it started out being called--
+office document architecture.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+CALALUCA * Text-encoding from a publisher's perspective *
+Responsibilities of a publisher * Reproduction of Migne's Latin series
+whole and complete with SGML tags based on perceived need and expected
+use * Particular decisions arising from the general decision to produce
+and publish PLD *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+The final speaker in this session, Eric CALALUCA, vice president,
+Chadwyck-Healey, Inc., spoke from the perspective of a publisher re
+text-encoding, rather than as one qualified to discuss methods of
+encoding data, and observed that the presenters sitting in the room,
+whether they had chosen to or not, were acting as publishers:  making
+choices, gathering data, gathering information, and making assessments. 
+CALALUCA offered the hard-won conviction that in publishing very large
+text files (such as PLD), one cannot avoid making personal judgments of
+appropriateness and structure.
+
+In CALALUCA's view, encoding decisions stem from prior judgments.  Two
+notions have become axioms for him in the consideration of future sources
+for electronic publication:  1) electronic text publishing is as personal
+as any other kind of publishing, and questions of if and how to encode
+the data are simply a consequence of that prior decision;  2) all
+personal decisions are open to criticism, which is unavoidable.
+
+CALALUCA rehearsed his role as a publisher or, better, as an intermediary
+between what is viewed as a sound idea and the people who would make use
+of it.  Finding the specialist to advise in this process is the core of
+that function.  The publisher must monitor and hug the fine line between
+giving users what they want and suggesting what they might need.  One
+responsibility of a publisher is to represent the desires of scholars and
+research librarians as opposed to bullheadedly forcing them into areas
+they would not choose to enter.
+
+CALALUCA likened the questions being raised today about data structure
+and standards to the decisions faced by the Abbe Migne himself during
+production of the Patrologia series in the mid-nineteenth century. 
+Chadwyck-Healey's decision to reproduce Migne's Latin series whole and
+complete with SGML tags was also based upon a perceived need and an
+expected use.  In the same way that Migne's work came to be far more than
+a simple handbook for clerics, PLD is already far more than a database
+for theologians.  It is a bedrock source for the study of Western
+civilization, CALALUCA asserted.
+
+In regard to the decision to produce and publish PLD, the editorial board
+offered direct judgments on the question of appropriateness of these
+texts for conversion, their encoding and their distribution, and
+concluded that the best possible project was one that avoided overt
+intrusions or exclusions in so important a resource.  Thus, the general
+decision to transmit the original collection as clearly as possible with
+the widest possible avenues for use led to other decisions:  1) To encode
+the data or not, SGML or not, TEI or not.  Again, the expected user
+community asserted the need for normative tagging structures of important
+humanities texts, and the TEI seemed the most appropriate structure for
+that purpose.  Research librarians, who are trained to view the larger
+impact of electronic text sources on 80 or 90 or 100 doctoral
+disciplines, loudly approved the decision to include tagging.  They see
+what is coming better than the specialist who is completely focused on
+one edition of Ambrose's De Anima, and they also understand that the
+potential uses exceed present expectations.  2) What will be tagged and
+what will not.  Once again, the board realized that one must tag the
+obvious.  But in no way should one attempt to identify through encoding
+schemes every single discrete area of a text that might someday be
+searched.  That was another decision.  Searching by a column number, an
+author, a word, a volume, permitting combination searches, and tagging
+notations seemed logical choices as core elements.  3) How does one make
+the data available?  Tieing it to a CD-ROM edition creates limitations,
+but a magnetic tape file that is very large, is accompanied by the
+encoding specifications, and that allows one to make local modifications
+also allows one to incorporate any changes one may desire within the
+bounds of private research, though exporting tag files from a CD-ROM
+could serve just as well.  Since no one on the board could possibly
+anticipate each and every way in which a scholar might choose to mine
+this data bank, it was decided to satisfy the basics and make some
+provisions for what might come.  4) Not to encode the database would rob
+it of the interchangeability and portability these important texts should
+accommodate.  For CALALUCA, the extensive options presented by full-text
+searching require care in text selection and strongly support encoding of
+data to facilitate the widest possible search strategies.  Better
+software can always be created, but summoning the resources, the people,
+and the energy to reconvert the text is another matter.
+
+PLD is being encoded, captured, and distributed, because to
+Chadwyck-Healey and the board it offers the widest possible array of
+future research applications that can be seen today.  CALALUCA concluded
+by urging the encoding of all important text sources in whatever way
+seems most appropriate and durable at the time, without blanching at the
+thought that one's work may require emendation in the future.  (Thus,
+Chadwyck-Healey produced a very large humanities text database before the
+final release of the TEI Guidelines.)
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Creating texts with markup advocated * Trends in encoding *
+The TEI and the issue of interchangeability of standards * A
+misconception concerning the TEI * Implications for an institution like
+LC in the event that a multiplicity of DTDs develops * Producing images
+as a first step towards possible conversion to full text through
+character recognition * The AAP tag sets as a common starting point and
+the need for caution *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+HOCKEY prefaced the discussion that followed with several comments in
+favor of creating texts with markup and on trends in encoding.  In the
+future, when many more texts are available for on-line searching, real
+problems in finding what is wanted will develop, if one is faced with
+millions of words of data.  It therefore becomes important to consider
+putting markup in texts to help searchers home in on the actual things
+they wish to retrieve.  Various approaches to refining retrieval methods
+toward this end include building on a computer version of a dictionary
+and letting the computer look up words in it to obtain more information
+about the semantic structure or semantic field of a word, its grammatical
+structure, and syntactic structure.
+
+HOCKEY commented on the present keen interest in the encoding world
+in creating:  1) machine-readable versions of dictionaries that can be
+initially tagged in SGML, which gives a structure to the dictionary entry;
+these entries can then be converted into a more rigid or otherwise
+different database structure inside the computer, which can be treated as
+a dynamic tool for searching mechanisms; 2) large bodies of text to study
+the language.  In order to incorporate more sophisticated mechanisms,
+more about how words behave needs to be known, which can be learned in
+part from information in dictionaries.  However, the last ten years have
+seen much interest in studying the structure of printed dictionaries
+converted into computer-readable form.  The information one derives about
+many words from those is only partial, one or two definitions of the
+common or the usual meaning of a word, and then numerous definitions of
+unusual usages.  If the computer is using a dictionary to help retrieve
+words in a text, it needs much more information about the common usages,
+because those are the ones that occur over and over again.  Hence the
+current interest in developing large bodies of text in computer-readable
+form in order to study the language.  Several projects are engaged in
+compiling, for example, 100 million words. HOCKEY described one with
+which she was associated briefly at Oxford University involving
+compilation of 100 million words of British English:  about 10 percent of
+that will contain detailed linguistic tagging encoded in SGML; it will
+have word class taggings, with words identified as nouns, verbs,
+adjectives, or other parts of speech.  This tagging can then be used by
+programs which will begin to learn a bit more about the structure of the
+language, and then, can go to tag more text.
+
+HOCKEY said that the more that is tagged accurately, the more one can
+refine the tagging process and thus the bigger body of text one can build
+up with linguistic tagging incorporated into it.  Hence, the more tagging
+or annotation there is in the text, the more one may begin to learn about
+language and the more it will help accomplish more intelligent OCR.  She
+recommended the development of software tools that will help one begin to
+understand more about a text, which can then be applied to scanning
+images of that text in that format and to using more intelligence to help
+one interpret or understand the text.
+
+HOCKEY posited the need to think about common methods of text-encoding
+for a long time to come, because building these large bodies of text is
+extremely expensive and will only be done once.
+
+In the more general discussion on approaches to encoding that followed,
+these points were made:
+
+BESSER identified the underlying problem with standards that all have to
+struggle with in adopting a standard, namely, the tension between a very
+highly defined standard that is very interchangeable but does not work
+for everyone because something is lacking, and a standard that is less
+defined, more open, more adaptable, but less interchangeable.  Contending
+that the way in which people use SGML is not sufficiently defined, BESSER
+wondered 1) if people resist the TEI because they think it is too defined
+in certain things they do not fit into, and 2) how progress with
+interchangeability can be made without frightening people away.
+
+SPERBERG-McQUEEN replied that the published drafts of the TEI had met
+with surprisingly little objection on the grounds that they do not allow
+one to handle X or Y or Z.  Particular concerns of the affiliated
+projects have led, in practice, to discussions of how extensions are to
+be made; the primary concern of any project has to be how it can be
+represented locally, thus making interchange secondary.  The TEI has
+received much criticism based on the notion that everything in it is
+required or even recommended, which, as it happens, is a misconception
+from the beginning,   because none of it is required and very little is
+actually actively recommended for all cases, except that one document
+one's source.
+
+SPERBERG-McQUEEN agreed with BESSER about this trade-off:  all the
+projects in a set of twenty TEI-conformant projects will not necessarily
+tag the material in the same way.  One result of the TEI will be that the
+easiest problems will be solved--those dealing with the external form of
+the information; but the problem that is hardest in interchange is that
+one is not encoding what another wants, and vice versa.  Thus, after
+the adoption of a common notation, the differences in the underlying
+conceptions of what is interesting about texts become more visible.
+The success of a standard like the TEI will lie in the ability of
+the recipient of interchanged texts to use some of what it contains
+and to add the information that was not encoded that one wants, in a
+layered way, so that texts can be gradually enriched and one does not
+have to put in everything all at once.  Hence, having a well-behaved
+markup scheme is important.
+
+STEVENS followed up on the paradoxical analogy that BESSER alluded to in
+the example of the MARC records, namely, the formats that are the same
+except that they are different.  STEVENS drew a parallel between
+document-type definitions and MARC records for books and serials and maps,
+where one has a tagging structure and there is a text-interchange. 
+STEVENS opined that the producers of the information will set the terms
+for the standard (i.e., develop document-type definitions for the users
+of their products), creating a situation that will be problematical for
+an institution like the Library of Congress, which will have to deal with
+the DTDs in the event that a multiplicity of them develops.  Thus,
+numerous people are seeking a standard but cannot find the tag set that
+will be acceptable to them and their clients.  SPERBERG-McQUEEN agreed
+with this view, and said that the situation was in a way worse:  attempting
+to unify arbitrary DTDs resembled attempting to unify a MARC record with a
+bibliographic record done according to the Prussian instructions. 
+According to STEVENS, this situation occurred very early in the process.
+
+WATERS recalled from early discussions on Project Open Book the concern
+of many people that merely by producing images, POB was not really
+enhancing intellectual access to the material.  Nevertheless, not wishing
+to overemphasize the opposition between imaging and full text, WATERS
+stated that POB views getting the images as a first step toward possibly
+converting to full text through character recognition, if the technology
+is appropriate.  WATERS also emphasized that encoding is involved even
+with a set of images.
+
+SPERBERG-McQUEEN agreed with WATERS that one can create an SGML document
+consisting wholly of images.  At first sight, organizing graphic images
+with an SGML document may not seem to offer great advantages, but the
+advantages of the scheme WATERS described would be precisely that
+ability to move into something that is more of a multimedia document:
+a combination of transcribed text and page images.  WEIBEL concurred in
+this judgment, offering evidence from Project ADAPT, where a page is
+divided into text elements and graphic elements, and in fact the text
+elements are organized by columns and lines.  These lines may be used as
+the basis for distributing documents in a network environment.  As one
+develops software intelligent enough to recognize what those elements
+are, it makes sense to apply SGML to an image initially, that may, in
+fact, ultimately become more and more text, either through OCR or edited
+OCR or even just through keying.  For WATERS, the labor of composing the
+document and saying this set of documents or this set of images belongs
+to this document constitutes a significant investment.
+
+WEIBEL also made the point that the AAP tag sets, while not excessively
+prescriptive, offer a common starting point; they do not define the
+structure of the documents, though.  They have some recommendations about
+DTDs one could use as examples, but they do just suggest tag sets.   For
+example, the CORE project attempts to use the AAP markup as much as
+possible, but there are clearly areas where structure must be added. 
+That in no way contradicts the use of AAP tag sets.
+
+SPERBERG-McQUEEN noted that the TEI prepared a long working paper early
+on about the AAP tag set and what it lacked that the TEI thought it
+needed, and a fairly long critique of the naming conventions, which has
+led to a very different style of naming in the TEI.  He stressed the
+importance of the opposition between prescriptive markup, the kind that a
+publisher or anybody can do when producing documents de novo, and
+descriptive markup, in which one has to take what the text carrier
+provides.  In these particular tag sets it is easy to overemphasize this
+opposition, because the AAP tag set is extremely flexible.  Even if one
+just used the DTDs, they allow almost anything to appear almost anywhere.
+
+                                 ******
+
+SESSION VI.  COPYRIGHT ISSUES
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+PETERS * Several cautions concerning copyright in an electronic
+environment * Review of copyright law in the United States * The notion
+of the public good and the desirability of incentives to promote it *
+What copyright protects * Works not protected by copyright * The rights
+of copyright holders * Publishers' concerns in today's electronic
+environment * Compulsory licenses * The price of copyright in a digital
+medium and the need for cooperation * Additional clarifications *  Rough
+justice oftentimes the outcome in numerous copyright matters * Copyright
+in an electronic society * Copyright law always only sets up the
+boundaries; anything can be changed by contract *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Marybeth PETERS, policy planning adviser to the Register of Copyrights,
+Library of Congress,   made several general comments and then opened the
+floor to discussion of subjects of interest to the audience.
+
+Having attended several sessions in an effort to gain a sense of what
+people did and where copyright would affect their lives, PETERS expressed
+the following cautions:
+
+     * If one takes and converts materials and puts them in new forms,
+     then, from a copyright point of view, one is creating something and
+     will receive some rights.
+
+     * However, if what one is converting already exists, a question
+     immediately arises about the status of the materials in question.
+
+     * Putting something in the public domain in the United States offers
+     some freedom from anxiety, but distributing it throughout the world
+     on a network is another matter, even if one has put it in the public
+     domain in the United States.  Re foreign laws, very frequently a
+     work can be in the public domain in the United States but protected
+     in other countries.  Thus, one must consider all of the places a
+     work may reach, lest one unwittingly become liable to being faced
+     with a suit for copyright infringement, or at least a letter
+     demanding discussion of what one is doing.
+
+PETERS reviewed copyright law in the United States.  The U.S.
+Constitution effectively states that Congress has the power to enact
+copyright laws for two purposes:  1) to encourage the creation and
+dissemination of intellectual works for the good of society as a whole;
+and, significantly, 2) to give creators and those who package and
+disseminate materials the economic rewards that are due them.
+
+Congress strives to strike a balance, which at times can become an
+emotional issue.  The United States has never accepted the notion of the
+natural right of an author so much as it has accepted the notion of the
+public good and the desirability of incentives to promote it.  This state
+of affairs, however, has created strains on the international level and
+is the reason for several of the differences in the laws that we have. 
+Today the United States protects almost every kind of work that can be
+called an expression of an author.  The standard for gaining copyright
+protection is simply originality.  This is a low standard and means that
+a work is not copied from something else, as well as shows a certain
+minimal amount of authorship.  One can also acquire copyright protection
+for making a new version of preexisting material, provided it manifests
+some spark of creativity.
+
+However, copyright does not protect ideas, methods, systems--only the way
+that one expresses those things.  Nor does copyright protect anything
+that is mechanical, anything that does not involve choice, or criteria
+concerning whether or not one should do a thing.  For example, the
+results of a process called declicking, in which one mechanically removes
+impure sounds from old recordings, are not copyrightable.  On the other
+hand, the choice to record a song digitally and to increase the sound of
+violins or to bring up the tympani constitutes the results of conversion
+that are copyrightable.  Moreover, if a work is protected by copyright in
+the United States, one generally needs the permission of the copyright
+owner to convert it.  Normally, who will own the new--that is, converted-
+-material is a matter of contract.  In the absence of a contract, the
+person who creates the new material is the author and owner.  But people
+do not generally think about the copyright implications until after the
+fact.  PETERS stressed the need when dealing with copyrighted works to
+think about copyright in advance.  One's bargaining power is much greater
+up front than it is down the road.
+
+PETERS next discussed works not protected by copyright, for example, any
+work done by a federal employee as part of his or her official duties is
+in the public domain in the United States.  The issue is not wholly free
+of doubt concerning whether or not the work is in the public domain
+outside the United States.  Other materials in the public domain include: 
+any works published more than seventy-five years ago, and any work
+published in the United States more than twenty-eight years ago, whose
+copyright was not renewed.  In talking about the new technology and
+putting material in a digital form to send all over the world, PETERS
+cautioned, one must keep in mind that while the rights may not be an
+issue in the United States, they may be in different parts of the world,
+where most countries previously employed a copyright term of the life of
+the author plus fifty years.
+
+PETERS next reviewed the economics of copyright holding.  Simply,
+economic rights are the rights to control the reproduction of a work in
+any form.  They belong to the author, or in the case of a work made for
+hire, the employer.  The second right, which is critical to conversion,
+is the right to change a work.  The right to make new versions is perhaps
+one of the most significant rights of authors, particularly in an
+electronic world.  The third right is the right to publish the work and
+the right to disseminate it, something that everyone who deals in an
+electronic medium needs to know.  The basic rule is if a copy is sold,
+all rights of distribution are extinguished with the sale of that copy. 
+The key is that it must be sold.  A number of companies overcome this
+obstacle by leasing or renting their product.  These companies argue that
+if the material is rented or leased and not sold, they control the uses
+of a work.  The fourth right, and one very important in a digital world,
+is a right of public performance, which means the right to show the work
+sequentially.  For example, copyright owners control the showing of a
+CD-ROM product in a public place such as a public library.  The reverse
+side of public performance is something called the right of public
+display.  Moral rights also exist, which at the federal level apply only
+to very limited visual works of art, but in theory may apply under
+contract and other principles.  Moral rights may include the right of an
+author to have his or her name on a work, the right of attribution, and
+the right to object to distortion or mutilation--the right of integrity.
+
+The way copyright law is worded gives much latitude to activities such as
+preservation; to use of material for scholarly and research purposes when
+the user does not make multiple copies; and to the generation of
+facsimile copies of unpublished works by libraries for themselves and
+other libraries.  But the law does not allow anyone to become the
+distributor of the product for the entire world.  In today's electronic
+environment, publishers are extremely concerned that the entire world is
+networked and can obtain the information desired from a single copy in a
+single library.  Hence, if there is to be only one sale, which publishers
+may choose to live with, they will obtain their money in other ways, for
+example, from access and use.  Hence, the development of site licenses
+and other kinds of agreements to cover what publishers believe they
+should be compensated for.  Any solution that the United States takes
+today has to consider the international arena.
+
+Noting that the United States is a member of the Berne Convention and
+subscribes to its provisions, PETERS described the permissions process. 
+She also defined compulsory licenses.  A compulsory license, of which the
+United States has had a few, builds into the law the right to use a work
+subject to certain terms and conditions.  In the international arena,
+however, the ability to use compulsory licenses is extremely limited. 
+Thus, clearinghouses and other collectives comprise one option that has
+succeeded in providing for use of a work.  Often overlooked when one
+begins to use copyrighted material and put products together is how
+expensive the permissions process and managing it is.  According to
+PETERS, the price of copyright in a digital medium, whatever solution is
+worked out, will include managing and assembling the database.  She
+strongly recommended that publishers and librarians or people with
+various backgrounds cooperate to work out administratively feasible
+systems, in order to produce better results.
+
+In the lengthy question-and-answer period that followed PETERS's
+presentation, the following points emerged:
+
+     * The Copyright Office maintains that anything mechanical and
+     totally exhaustive probably is not protected.  In the event that
+     what an individual did in developing potentially copyrightable
+     material is not understood, the Copyright Office will ask about the
+     creative choices the applicant chose to make or not to make.  As a
+     practical matter, if one believes she or he has made enough of those
+     choices, that person has a right to assert a copyright and someone
+     else must assert that the work is not copyrightable.  The more
+     mechanical, the more automatic, a thing is, the less likely it is to
+     be copyrightable.
+
+     * Nearly all photographs are deemed to be copyrightable, but no one
+     worries about them much, because everyone is free to take the same
+     image.  Thus, a photographic copyright represents what is called a
+     "thin" copyright.  The photograph itself must be duplicated, in
+     order for copyright to be violated.
+
+     * The Copyright Office takes the position that X-rays are not
+     copyrightable because they are mechanical.  It  can be argued
+     whether or not image enhancement in scanning can be protected.  One
+     must exercise care with material created with public funds and
+     generally in the public domain.  An article written by a federal
+     employee, if written as part of official duties, is not
+     copyrightable.  However, control over a scientific article written
+     by a National Institutes of Health grantee (i.e., someone who
+     receives money from the U.S. government), depends on NIH policy.  If
+     the government agency has no policy (and that policy can be
+     contained in its regulations, the contract, or the grant), the
+     author retains copyright.  If a provision of the contract, grant, or
+     regulation states that there will be no copyright, then it does not
+     exist.  When a work is created, copyright automatically comes into
+     existence unless something exists that says it does not.
+
+     * An enhanced electronic copy of a print copy of an older reference
+     work in the public domain that does not contain copyrightable new
+     material is a purely mechanical rendition of the original work, and
+     is not copyrightable.
+
+     * Usually, when a work enters the public domain, nothing can remove
+     it.  For example, Congress recently passed into law the concept of
+     automatic renewal, which means that copyright on any work published
+     between l964 and l978 does not have to be renewed in order to
+     receive a seventy-five-year term.  But any work not renewed before
+     1964 is in the public domain.
+
+     * Concerning whether or not the United States keeps track of when
+     authors die, nothing was ever done, nor is anything being done at
+     the moment by the Copyright Office.
+
+     * Software that drives a mechanical process is itself copyrightable. 
+     If one changes platforms, the software itself has a copyright.  The
+     World Intellectual Property Organization will hold a symposium 28
+     March through 2 April l993, at Harvard University, on digital
+     technology, and will study this entire issue.  If one purchases a
+     computer software package, such as MacPaint, and creates something
+     new, one receives protection only for that which has been added.
+
+PETERS added that often in copyright matters, rough justice is the
+outcome, for example, in collective licensing, ASCAP (i.e., American
+Society of Composers, Authors, and Publishers), and BMI (i.e., Broadcast
+Music, Inc.), where it may seem that the big guys receive more than their
+due.  Of course, people ought not to copy a creative product without
+paying for it; there should be some compensation.  But the truth of the
+world, and it is not a great truth, is that the big guy gets played on
+the radio more frequently than the little guy, who has to do much more
+until he becomes a big guy.  That is true of every author, every
+composer, everyone, and, unfortunately, is part of life.
+
+Copyright always originates with the author, except in cases of works
+made for hire.  (Most software falls into this category.)  When an author
+sends his article to a journal, he has not relinquished copyright, though
+he retains the right to relinquish it.  The author receives absolutely
+everything.  The less prominent the author, the more leverage the
+publisher will have in contract negotiations.  In order to transfer the
+rights, the author must sign an agreement giving them away.
+
+In an electronic society, it is important to be able to license a writer
+and work out deals.  With regard to use of a work, it usually is much
+easier when a publisher holds the rights.  In an electronic era, a real
+problem arises when one is digitizing and making information available. 
+PETERS referred again to electronic licensing clearinghouses.  Copyright
+ought to remain with the author, but as one moves forward globally in the
+electronic arena, a middleman who can handle the various rights becomes
+increasingly necessary.
+
+The notion of copyright law is that it resides with the individual, but
+in an on-line environment, where a work can be adapted and tinkered with
+by many individuals, there is concern.  If changes are authorized and
+there is no agreement to the contrary, the person who changes a work owns
+the changes.  To put it another way, the person who acquires permission
+to change a work technically will become the author and the owner, unless
+some agreement to the contrary has been made.  It is typical for the
+original publisher to try to control all of the versions and all of the
+uses.  Copyright law always only sets up the boundaries.  Anything can be
+changed by contract.
+
+                                 ******
+
+SESSION VII.  CONCLUSION
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+GENERAL DISCUSSION * Two questions for discussion * Different emphases in
+the Workshop * Bringing the text and image partisans together *
+Desiderata in planning the long-term development of something * Questions
+surrounding the issue of electronic deposit * Discussion of electronic
+deposit as an allusion to the issue of standards * Need for a directory
+of preservation projects in digital form and for access to their
+digitized files * CETH's catalogue of machine-readable texts in the
+humanities * What constitutes a publication in the electronic world? *
+Need for LC to deal with the concept of on-line publishing * LC's Network
+Development Office  exploring the limits of MARC as a standard in terms
+of handling electronic information * Magnitude of the problem and the
+need for distributed responsibility in order to maintain and store
+electronic information * Workshop participants to be viewed as a starting
+point * Development of a network version of AM urged * A step toward AM's
+construction of some sort of apparatus for network access * A delicate
+and agonizing policy question for LC * Re the issue of electronic
+deposit, LC urged to initiate a catalytic process in terms of distributed
+responsibility * Suggestions for cooperative ventures * Commercial
+publishers' fears * Strategic questions for getting the image and text
+people to think through long-term cooperation * Clarification of the
+driving force behind both the Perseus and the Cornell Xerox projects *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+In his role as moderator of the concluding session, GIFFORD raised two
+questions he believed would benefit from discussion:  1) Are there enough
+commonalities among those of us that have been here for two days so that
+we can see courses of action that should be taken in the future?  And, if
+so, what are they and who might take them?  2) Partly derivative from
+that, but obviously very dangerous to LC as host, do you see a role for
+the Library of Congress in all this?  Of course, the Library of Congress
+holds a rather special status in a number of these matters, because it is
+not perceived as a player with an economic stake in them, but are there
+roles that LC can play that can help advance us toward where we are heading?
+
+Describing himself as an uninformed observer of the technicalities of the
+last two days, GIFFORD detected three different emphases in the Workshop: 
+1) people who are very deeply committed to text; 2) people who are almost
+passionate about images; and 3) a few people who are very committed to
+what happens to the networks.  In other words, the new networking
+dimension, the accessibility of the processability, the portability of
+all this across the networks.  How do we pull those three together?
+
+Adding a question that reflected HOCKEY's comment that this was the
+fourth workshop she had attended in the previous thirty days, FLEISCHHAUER
+wondered to what extent this meeting had reinvented the wheel, or if it
+had contributed anything in the way of bringing together a different group
+of people from those who normally appear on the workshop circuit.
+
+HOCKEY confessed to being struck at this meeting and the one the
+Electronic Pierce Consortium organized the previous week that this was a
+coming together of people working on texts and not images.  Attempting to
+bring the two together is something we ought to be thinking about for the
+future:  How one can think about working with image material to begin
+with, but structuring it and digitizing it in such a way that at a later
+stage it can be interpreted into text, and find a common way of building
+text and images together so that they can be used jointly in the future,
+with the network support to begin there because that is how people will
+want to access it.
+
+In planning the long-term development of something, which is what is
+being done in electronic text, HOCKEY stressed the importance not only
+of discussing the technical aspects of how one does it but particularly
+of thinking about what the people who use the stuff will want to do.
+But conversely, there are numerous things that people start to do with
+electronic text or material that nobody ever thought of in the beginning.
+
+LESK, in response to the question concerning the role of the Library of
+Congress, remarked the often suggested desideratum of having electronic
+deposit:  Since everything is now computer-typeset, an entire decade of
+material that was machine-readable exists, but the publishers frequently
+did not save it; has LC taken any action to have its copyright deposit
+operation start collecting these machine-readable versions?  In the
+absence of PETERS, GIFFORD replied that the question was being
+actively considered but that that was only one dimension of the problem.
+Another dimension is the whole question of the integrity of the original
+electronic document.  It becomes highly important in science to prove
+authorship.  How will that be done?
+
+ERWAY explained that, under the old policy, to make a claim for a
+copyright for works that were published in electronic form, including
+software, one had to submit a paper copy of the first and last twenty
+pages of code--something that represented the work but did not include
+the entire work itself and had little value to anyone.  As a temporary
+measure, LC has claimed the right to demand electronic versions of
+electronic publications.  This measure entails a proactive role for the
+Library to say that it wants a particular electronic version.  Publishers
+then have perhaps a year to submit it.  But the real problem for LC is
+what to do with all this material in all these different formats.  Will
+the Library mount it?  How will it give people access to it?  How does LC
+keep track of the appropriate computers, software, and media?  The situation
+is so hard to control, ERWAY said, that it makes sense for each publishing
+house to maintain its own archive.  But LC cannot enforce that either.
+
+GIFFORD acknowledged LESK's suggestion that establishing a priority
+offered the solution, albeit a fairly complicated one.  But who maintains
+that register?, he asked.  GRABER noted that LC does attempt to collect a
+Macintosh version and the IBM-compatible version of software.  It does
+not collect other versions.  But while true for software, BYRUM observed,
+this reply does not speak to materials, that is, all the materials that
+were published that were on somebody's microcomputer or driver tapes
+at a publishing office across the country.  LC does well to acquire
+specific machine-readable products selectively that were intended to be
+machine-readable.  Materials that were in machine-readable form at one time,
+BYRUM said, would be beyond LC's capability at the moment, insofar as
+attempting to acquire, organize, and preserve them are concerned--and
+preservation would be the most important consideration.  In this
+connection, GIFFORD reiterated the need to work out some sense of
+distributive responsibility for a number of these issues, which
+inevitably will require significant cooperation and discussion.
+Nobody can do it all.
+
+LESK suggested that some publishers may look with favor on LC beginning
+to serve as a depository of tapes in an electronic manuscript standard. 
+Publishers may view this as a service that they did not have to perform
+and they might send in tapes.  However, SPERBERG-McQUEEN countered,
+although publishers have had equivalent services available to them for a
+long time, the electronic text archive has never turned away or been
+flooded with tapes and is forever sending feedback to the depositor. 
+Some publishers do send in tapes.
+
+ANDRE viewed this discussion as an allusion to the issue of standards. 
+She recommended that the AAP standard and the TEI, which has already been
+somewhat harmonized internationally and which also shares several
+compatibilities with the AAP, be harmonized to ensure sufficient
+compatibility in the software.  She drew the line at saying LC ought to
+be the locus or forum for such harmonization.
+
+Taking the group in a slightly different direction, but one where at
+least in the near term LC might play a helpful role, LYNCH remarked the
+plans of a number of projects to carry out preservation by creating
+digital images that will end up in on-line or near-line storage at some
+institution.   Presumably, LC will link this material somehow to its
+on-line catalog in most cases.  Thus, it is in a digital form.  LYNCH had
+the impression that many of these institutions would be willing to make
+those files accessible to other people outside the institution, provided
+that there is no copyright problem.  This desideratum will require
+propagating the knowledge that those digitized files exist, so that they
+can end up in other on-line catalogs.  Although uncertain about the
+mechanism for achieving this result, LYNCH said that it warranted
+scrutiny because it seemed to be connected to some of the basic issues of
+cataloging and distribution of records.  It would be  foolish, given the
+amount of work that all of us have to do and our meager resources, to
+discover multiple institutions digitizing the same work.  Re microforms,
+LYNCH said, we are in pretty good shape.
+
+BATTIN called this a big problem and noted that the Cornell people (who
+had already departed) were working on it.  At issue from the beginning
+was to learn how to catalog that information into RLIN and then into
+OCLC, so that it would be accessible.  That issue remains to be resolved. 
+LYNCH rejoined that putting it into OCLC or RLIN was helpful insofar as
+somebody who is thinking of performing preservation activity on that work
+could learn about it.  It is not necessarily helpful for institutions to
+make that available.  BATTIN opined that the idea was that it not only be
+for preservation purposes but for the convenience of people looking for
+this material.  She endorsed LYNCH's dictum that duplication of this
